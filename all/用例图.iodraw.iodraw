@@ -99,7 +99,12 @@
           <mxGeometry x="259" y="370" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_UGAJi8-v-7EANZen90h-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_UGAJi8-v-7EANZen90h-3" target="_UGAJi8-v-7EANZen90h-20">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="430" />
+              <mxPoint x="440" y="430" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="_UGAJi8-v-7EANZen90h-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;个人信息&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="410" width="86.5" height="40" as="geometry" />
@@ -114,7 +119,7 @@
           <mxGeometry x="122.5" y="610" width="86.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_UGAJi8-v-7EANZen90h-20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;更改密码&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="466.5" y="410" width="86.5" height="40" as="geometry" />
+          <mxGeometry x="471.25" y="370" width="86.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
