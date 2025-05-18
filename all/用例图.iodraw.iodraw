@@ -23,7 +23,7 @@
           <mxGeometry x="127.5" y="200" width="195" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wqMc0qIFBYPl9BFFdAHJ-60" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="157.5" y="290" width="135" height="40" as="geometry" />
+          <mxGeometry x="157.5" y="290" width="135" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
