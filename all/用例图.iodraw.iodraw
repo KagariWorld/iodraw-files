@@ -98,6 +98,11 @@
         <mxCell id="wqMc0qIFBYPl9BFFdAHJ-86" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;N&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="259" y="370" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="_UGAJi8-v-7EANZen90h-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_UGAJi8-v-7EANZen90h-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_UGAJi8-v-7EANZen90h-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;个人信息&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="410" width="86.5" height="40" as="geometry" />
         </mxCell>
@@ -108,6 +113,11 @@
         </mxCell>
         <mxCell id="_UGAJi8-v-7EANZen90h-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;评论&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="460" width="86.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_UGAJi8-v-7EANZen90h-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_UGAJi8-v-7EANZen90h-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="530" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="_UGAJi8-v-7EANZen90h-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;查看公告&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="510" width="86.5" height="40" as="geometry" />
