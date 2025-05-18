@@ -108,10 +108,7 @@
           <mxGeometry x="300" y="510" width="86.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_UGAJi8-v-7EANZen90h-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;功能控制&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="560" width="86.5" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="_UGAJi8-v-7EANZen90h-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;监控&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="479" y="530" width="86.5" height="40" as="geometry" />
+          <mxGeometry x="209" y="585" width="86.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
