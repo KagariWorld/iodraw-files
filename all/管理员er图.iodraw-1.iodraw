@@ -38,7 +38,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iuYV8qp7wQWwqi4yZBCq-14" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;创建时间&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="iuYV8qp7wQWwqi4yZBCq-14" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;父评论id&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="350" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="iuYV8qp7wQWwqi4yZBCq-15" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="iuYV8qp7wQWwqi4yZBCq-1" target="iuYV8qp7wQWwqi4yZBCq-14" edge="1">
@@ -48,7 +48,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iuYV8qp7wQWwqi4yZBCq-16" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;更新时间&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="iuYV8qp7wQWwqi4yZBCq-16" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;回复者id&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="345" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iuYV8qp7wQWwqi4yZBCq-20" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="iuYV8qp7wQWwqi4yZBCq-16" target="iuYV8qp7wQWwqi4yZBCq-1" edge="1">
