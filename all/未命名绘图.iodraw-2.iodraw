@@ -34,9 +34,6 @@
         <mxCell id="XFTS35DXB9n1WTCj36LT-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;公告模块&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="400" width="40" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="XFTS35DXB9n1WTCj36LT-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XFTS35DXB9n1WTCj36LT-36" target="XFTS35DXB9n1WTCj36LT-27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="XFTS35DXB9n1WTCj36LT-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XFTS35DXB9n1WTCj36LT-14" target="XFTS35DXB9n1WTCj36LT-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -131,6 +128,12 @@
         </mxCell>
         <mxCell id="XFTS35DXB9n1WTCj36LT-41" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;功能控制模块&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="325" y="400" width="40" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="XFTS35DXB9n1WTCj36LT-42" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XFTS35DXB9n1WTCj36LT-27" target="XFTS35DXB9n1WTCj36LT-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="380" as="sourcePoint" />
+            <mxPoint x="270" y="330" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
