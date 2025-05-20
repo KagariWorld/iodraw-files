@@ -57,7 +57,7 @@
             <mxPoint x="320" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HKd1VS2iq2Vey3Zb4DBx-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;用户名&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="HKd1VS2iq2Vey3Zb4DBx-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;发表者账号&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="120" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HKd1VS2iq2Vey3Zb4DBx-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0.283;entryY=0.931;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="iuYV8qp7wQWwqi4yZBCq-1" target="HKd1VS2iq2Vey3Zb4DBx-1" edge="1">
