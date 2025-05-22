@@ -11,7 +11,7 @@
           <mxGeometry x="340" y="390" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DqvSt7vcrp_-9eA9DaKk-5" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="340" y="130" width="100" height="100" as="geometry" />
+          <mxGeometry x="340" y="130" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
