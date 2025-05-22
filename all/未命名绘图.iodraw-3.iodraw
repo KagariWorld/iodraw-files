@@ -76,8 +76,14 @@
         <mxCell id="DqvSt7vcrp_-9eA9DaKk-28" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="725" y="405" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="DqvSt7vcrp_-9eA9DaKk-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DqvSt7vcrp_-9eA9DaKk-31" target="DqvSt7vcrp_-9eA9DaKk-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DqvSt7vcrp_-9eA9DaKk-31" value="比对验证码是否正确" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="555" y="610" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DqvSt7vcrp_-9eA9DaKk-34" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="765" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
