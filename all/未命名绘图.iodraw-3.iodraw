@@ -121,9 +121,6 @@
         <mxCell id="DqvSt7vcrp_-9eA9DaKk-47" value="判断输入信息&lt;span style=&quot;background-color: initial;&quot;&gt;是否正确&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="45" y="400" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="DqvSt7vcrp_-9eA9DaKk-49" value="点击登录" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="320" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
