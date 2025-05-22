@@ -50,8 +50,11 @@
         <mxCell id="wIvWONuvSxEsx8ix1RZm-50" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;异常&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="360" width="40" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="wIvWONuvSxEsx8ix1RZm-51" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;异常&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wIvWONuvSxEsx8ix1RZm-51" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;常量&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="360" width="40" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="wIvWONuvSxEsx8ix1RZm-52" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;常量&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="360" width="40" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
