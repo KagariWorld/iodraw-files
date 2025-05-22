@@ -64,7 +64,7 @@
         <mxCell id="DqvSt7vcrp_-9eA9DaKk-23" value="输入从服务端获取到的验证码" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DqvSt7vcrp_-9eA9DaKk-25" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DqvSt7vcrp_-9eA9DaKk-25" value="提示错误信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="405" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
