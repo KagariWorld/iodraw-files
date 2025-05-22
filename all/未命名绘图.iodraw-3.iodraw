@@ -8,7 +8,7 @@
           <mxGeometry x="340" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wIvWONuvSxEsx8ix1RZm-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;登录注册模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="160" width="50" height="190" as="geometry" />
+          <mxGeometry x="110" y="160" width="40" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
