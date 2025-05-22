@@ -34,7 +34,7 @@
         <mxCell id="DqvSt7vcrp_-9eA9DaKk-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DqvSt7vcrp_-9eA9DaKk-13" target="DqvSt7vcrp_-9eA9DaKk-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DqvSt7vcrp_-9eA9DaKk-13" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;输入用户名、密码&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;确认密码、邮箱&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="DqvSt7vcrp_-9eA9DaKk-13" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;输入用户名、密码&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;、&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;确认密码、邮箱&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="575" y="220" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DqvSt7vcrp_-9eA9DaKk-15" value="点击获取验证码" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
