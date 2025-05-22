@@ -106,7 +106,7 @@
         <mxCell id="DqvSt7vcrp_-9eA9DaKk-41" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="530" y="615" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DqvSt7vcrp_-9eA9DaKk-43" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;输入用户名或邮箱&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;、密码&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="DqvSt7vcrp_-9eA9DaKk-43" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;输入用户名或邮箱&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;以及密码&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="65" y="240" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
