@@ -46,6 +46,9 @@
         <mxCell id="wIvWONuvSxEsx8ix1RZm-22" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;个人信息模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="360" width="40" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="wIvWONuvSxEsx8ix1RZm-23" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;公告模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="360" width="40" height="150" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
