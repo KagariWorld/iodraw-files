@@ -16,6 +16,9 @@
         <mxCell id="wIvWONuvSxEsx8ix1RZm-6" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;MQTT管理者模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="170" width="40" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="wIvWONuvSxEsx8ix1RZm-7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;全局变量模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="170" width="40" height="150" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
