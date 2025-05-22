@@ -67,8 +67,14 @@
         <mxCell id="wIvWONuvSxEsx8ix1RZm-25" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;评论模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="360" width="40" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="wIvWONuvSxEsx8ix1RZm-31" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;功能控制模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wIvWONuvSxEsx8ix1RZm-31" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;监控模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="550" width="40" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="wIvWONuvSxEsx8ix1RZm-32" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;安全模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="550" width="40" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="wIvWONuvSxEsx8ix1RZm-33" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;安全模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="560" width="40" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
