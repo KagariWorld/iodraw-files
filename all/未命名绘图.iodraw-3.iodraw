@@ -73,6 +73,9 @@
         <mxCell id="DqvSt7vcrp_-9eA9DaKk-28" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="725" y="405" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="DqvSt7vcrp_-9eA9DaKk-31" value="判断输入信息格式及&lt;div&gt;内容&lt;span style=&quot;background-color: initial;&quot;&gt;是否正确&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="630" width="170" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
