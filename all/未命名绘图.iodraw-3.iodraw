@@ -40,8 +40,8 @@
         <mxCell id="DqvSt7vcrp_-9eA9DaKk-15" value="点击获取验证码" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DqvSt7vcrp_-9eA9DaKk-18" value="判断输入" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="555" y="400" width="170" height="60" as="geometry" />
+        <mxCell id="DqvSt7vcrp_-9eA9DaKk-18" value="判断输入信息格式&lt;div&gt;是否正确&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="400" width="170" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
