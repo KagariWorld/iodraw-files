@@ -16,8 +16,14 @@
         <mxCell id="BKfm6hJUiGOScu5fvhKI-8" value="点击添加按钮" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="80" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="BKfm6hJUiGOScu5fvhKI-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BKfm6hJUiGOScu5fvhKI-10" target="BKfm6hJUiGOScu5fvhKI-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BKfm6hJUiGOScu5fvhKI-10" value="所有权限是否授予" style="rhombus;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="150" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BKfm6hJUiGOScu5fvhKI-12" value="" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="155" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
