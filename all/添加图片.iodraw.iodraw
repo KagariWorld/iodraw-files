@@ -75,7 +75,7 @@
           <mxGeometry x="220" y="390" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BKfm6hJUiGOScu5fvhKI-68" value="是否检查时间&amp;gt;3秒" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="95" y="480" width="110" height="60" as="geometry" />
+          <mxGeometry x="87.5" y="480" width="125" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
