@@ -102,7 +102,10 @@
           <mxGeometry x="70" y="670" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BKfm6hJUiGOScu5fvhKI-78" value="检测成功" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="790" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="770" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BKfm6hJUiGOScu5fvhKI-80" value="end" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="110" y="870" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
