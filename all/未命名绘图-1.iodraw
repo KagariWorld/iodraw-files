@@ -37,11 +37,17 @@
         <mxCell id="BKfm6hJUiGOScu5fvhKI-17" value="end" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
           <mxGeometry x="135" y="260" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="BKfm6hJUiGOScu5fvhKI-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BKfm6hJUiGOScu5fvhKI-19" target="BKfm6hJUiGOScu5fvhKI-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BKfm6hJUiGOScu5fvhKI-19" value="创建Intent，设置MIME类型为imge/*，添加OPENABLE类别，启动Activity" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="155" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BKfm6hJUiGOScu5fvhKI-21" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="414" y="158" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BKfm6hJUiGOScu5fvhKI-22" value="" style="rhombus;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="285" width="120" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
