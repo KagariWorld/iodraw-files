@@ -85,7 +85,7 @@
         <mxCell id="BKfm6hJUiGOScu5fvhKI-34" value="关闭流和文件，加载临时文件为QPixmap" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BKfm6hJUiGOScu5fvhKI-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BKfm6hJUiGOScu5fvhKI-36">
+        <mxCell id="BKfm6hJUiGOScu5fvhKI-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BKfm6hJUiGOScu5fvhKI-36" target="BKfm6hJUiGOScu5fvhKI-41">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="612.5" as="targetPoint" />
           </mxGeometry>
@@ -97,7 +97,7 @@
           <mxGeometry x="430" y="582.5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BKfm6hJUiGOScu5fvhKI-41" value="显示错误&lt;div&gt;并返回&lt;/div&gt;" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="295" y="410" width="90" height="45" as="geometry" />
+          <mxGeometry x="310" y="590" width="90" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
