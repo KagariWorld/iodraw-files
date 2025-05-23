@@ -31,8 +31,11 @@
             <mxPoint x="710" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BKfm6hJUiGOScu5fvhKI-119" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BKfm6hJUiGOScu5fvhKI-119" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;MQTT服务器&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BKfm6hJUiGOScu5fvhKI-120" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;MQTT服务器&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
