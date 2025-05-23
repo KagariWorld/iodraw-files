@@ -7,7 +7,7 @@
         <mxCell id="BKfm6hJUiGOScu5fvhKI-95" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;硬件端&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BKfm6hJUiGOScu5fvhKI-96" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BKfm6hJUiGOScu5fvhKI-96" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;视频流模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="180" width="50" height="120" as="geometry" />
         </mxCell>
       </root>
