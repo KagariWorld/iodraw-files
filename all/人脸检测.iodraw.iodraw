@@ -19,13 +19,10 @@
         <mxCell id="BKfm6hJUiGOScu5fvhKI-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BKfm6hJUiGOScu5fvhKI-95" target="BKfm6hJUiGOScu5fvhKI-100">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BKfm6hJUiGOScu5fvhKI-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BKfm6hJUiGOScu5fvhKI-95" target="BKfm6hJUiGOScu5fvhKI-109">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="BKfm6hJUiGOScu5fvhKI-95" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;硬件端&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BKfm6hJUiGOScu5fvhKI-96" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;视频流模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BKfm6hJUiGOScu5fvhKI-96" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;监控&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;模块&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="180" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="BKfm6hJUiGOScu5fvhKI-97" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;烟雾&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;火焰&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;检测&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;模块&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -39,9 +36,6 @@
         </mxCell>
         <mxCell id="BKfm6hJUiGOScu5fvhKI-100" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;灯光&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;模块&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="180" width="60" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="BKfm6hJUiGOScu5fvhKI-109" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;灯光&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;模块&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="180" width="60" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
