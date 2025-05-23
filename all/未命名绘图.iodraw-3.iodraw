@@ -22,8 +22,8 @@
         <mxCell id="bTR-dUuTeZn0FKnPBdAd-4" value="启动摄像头" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bTR-dUuTeZn0FKnPBdAd-6" value="" style="rhombus;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="300" width="110" height="50" as="geometry" />
+        <mxCell id="bTR-dUuTeZn0FKnPBdAd-6" value="是否按下q" style="rhombus;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="300" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
