@@ -110,8 +110,14 @@
         <mxCell id="bTR-dUuTeZn0FKnPBdAd-35" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="345" y="230" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="bTR-dUuTeZn0FKnPBdAd-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bTR-dUuTeZn0FKnPBdAd-38" target="bTR-dUuTeZn0FKnPBdAd-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bTR-dUuTeZn0FKnPBdAd-38" value="停止摄像头&lt;div&gt;关闭UDP连接&lt;/div&gt;&lt;div&gt;关闭显示窗口&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="200.0005750798722" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bTR-dUuTeZn0FKnPBdAd-39" value="end" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="590" y="215" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
