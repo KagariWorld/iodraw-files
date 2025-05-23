@@ -105,11 +105,17 @@
         <mxCell id="BKfm6hJUiGOScu5fvhKI-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=15;entryPerimeter=0;" edge="1" parent="1" source="BKfm6hJUiGOScu5fvhKI-41" target="BKfm6hJUiGOScu5fvhKI-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BKfm6hJUiGOScu5fvhKI-43" value="" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+        <mxCell id="BKfm6hJUiGOScu5fvhKI-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BKfm6hJUiGOScu5fvhKI-43" target="BKfm6hJUiGOScu5fvhKI-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BKfm6hJUiGOScu5fvhKI-43" value="缩放图片适应label并显示图片" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BKfm6hJUiGOScu5fvhKI-45" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="540" y="635" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BKfm6hJUiGOScu5fvhKI-46" value="" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="810" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
