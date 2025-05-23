@@ -52,8 +52,8 @@
         <mxCell id="bTR-dUuTeZn0FKnPBdAd-16" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="270" y="520" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bTR-dUuTeZn0FKnPBdAd-17" value="" style="rhombus;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="680" width="130" height="80" as="geometry" />
+        <mxCell id="bTR-dUuTeZn0FKnPBdAd-17" value="是否到达最大&lt;div&gt;调整次数3次&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="205" y="670" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
