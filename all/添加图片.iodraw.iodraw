@@ -101,8 +101,8 @@
         <mxCell id="BKfm6hJUiGOScu5fvhKI-76" value="MQTT是否收到红外信号" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="670" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BKfm6hJUiGOScu5fvhKI-78" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="840" width="120" height="60" as="geometry" />
+        <mxCell id="BKfm6hJUiGOScu5fvhKI-78" value="检测成功" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="790" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
