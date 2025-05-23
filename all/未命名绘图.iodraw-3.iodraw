@@ -40,6 +40,9 @@
         <mxCell id="bTR-dUuTeZn0FKnPBdAd-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bTR-dUuTeZn0FKnPBdAd-11" target="bTR-dUuTeZn0FKnPBdAd-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="bTR-dUuTeZn0FKnPBdAd-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bTR-dUuTeZn0FKnPBdAd-11" target="bTR-dUuTeZn0FKnPBdAd-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bTR-dUuTeZn0FKnPBdAd-11" value="大小是否&amp;lt;=65500字节" style="rhombus;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="195" y="440" width="150" height="80" as="geometry" />
         </mxCell>
@@ -78,8 +81,8 @@
         <mxCell id="bTR-dUuTeZn0FKnPBdAd-25" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="175" y="650" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bTR-dUuTeZn0FKnPBdAd-27" value="捕获视频帧&lt;div&gt;初始质量压缩&lt;/div&gt;" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="360" width="120" height="60" as="geometry" />
+        <mxCell id="bTR-dUuTeZn0FKnPBdAd-27" value="发送UDP数据包" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
