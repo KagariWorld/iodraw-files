@@ -41,10 +41,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bTR-dUuTeZn0FKnPBdAd-11" value="大小是否&amp;lt;=65500字节" style="rhombus;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="195" y="460" width="150" height="80" as="geometry" />
+          <mxGeometry x="195" y="440" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bTR-dUuTeZn0FKnPBdAd-14" value="" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="210" y="630" width="120" height="60" as="geometry" />
+        <mxCell id="bTR-dUuTeZn0FKnPBdAd-14" value="质量-5%" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
