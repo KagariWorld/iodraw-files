@@ -101,11 +101,17 @@
         <mxCell id="BKfm6hJUiGOScu5fvhKI-76" value="MQTT是否收到红外信号" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="670" width="160" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="BKfm6hJUiGOScu5fvhKI-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BKfm6hJUiGOScu5fvhKI-78" target="BKfm6hJUiGOScu5fvhKI-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BKfm6hJUiGOScu5fvhKI-78" value="检测成功" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="770" width="120" height="40" as="geometry" />
+          <mxGeometry x="90" y="780" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BKfm6hJUiGOScu5fvhKI-80" value="end" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
-          <mxGeometry x="110" y="870" width="80" height="30" as="geometry" />
+          <mxGeometry x="110" y="850" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BKfm6hJUiGOScu5fvhKI-82" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="145" y="738" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
