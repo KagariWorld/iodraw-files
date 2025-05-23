@@ -31,7 +31,7 @@
           <mxGeometry x="90" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BKfm6hJUiGOScu5fvhKI-54" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="190" y="180" width="30" height="30" as="geometry" />
+          <mxGeometry x="360" y="180" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BKfm6hJUiGOScu5fvhKI-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BKfm6hJUiGOScu5fvhKI-55" target="BKfm6hJUiGOScu5fvhKI-57">
           <mxGeometry relative="1" as="geometry" />
@@ -54,7 +54,7 @@
         <mxCell id="BKfm6hJUiGOScu5fvhKI-61" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="150" y="450" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BKfm6hJUiGOScu5fvhKI-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BKfm6hJUiGOScu5fvhKI-62" target="BKfm6hJUiGOScu5fvhKI-50">
+        <mxCell id="BKfm6hJUiGOScu5fvhKI-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BKfm6hJUiGOScu5fvhKI-62" target="BKfm6hJUiGOScu5fvhKI-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BKfm6hJUiGOScu5fvhKI-62" value="重置检测状态" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
