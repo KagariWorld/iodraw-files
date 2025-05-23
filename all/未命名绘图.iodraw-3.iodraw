@@ -101,17 +101,14 @@
         <mxCell id="bTR-dUuTeZn0FKnPBdAd-30" value="显示视频画面" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bTR-dUuTeZn0FKnPBdAd-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="bTR-dUuTeZn0FKnPBdAd-6" target="bTR-dUuTeZn0FKnPBdAd-37">
+        <mxCell id="bTR-dUuTeZn0FKnPBdAd-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="bTR-dUuTeZn0FKnPBdAd-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="430" as="sourcePoint" />
-            <mxPoint x="420" y="250" as="targetPoint" />
+            <mxPoint x="414" y="237.14057507987218" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bTR-dUuTeZn0FKnPBdAd-35" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="345" y="230" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="bTR-dUuTeZn0FKnPBdAd-37" value="end" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
-          <mxGeometry x="410" y="210" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
