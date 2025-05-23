@@ -7,8 +7,8 @@
         <mxCell id="BKfm6hJUiGOScu5fvhKI-1" value="监控模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="80" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BKfm6hJUiGOScu5fvhKI-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="260" width="50" height="100" as="geometry" />
+        <mxCell id="BKfm6hJUiGOScu5fvhKI-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="180" width="80" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
