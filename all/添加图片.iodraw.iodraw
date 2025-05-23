@@ -80,8 +80,8 @@
         <mxCell id="BKfm6hJUiGOScu5fvhKI-68" value="是否检查时间&amp;gt;3秒" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="87.5" y="480" width="125" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BKfm6hJUiGOScu5fvhKI-72" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="25" y="438" width="50" height="30" as="geometry" />
+        <mxCell id="BKfm6hJUiGOScu5fvhKI-72" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="440" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
