@@ -47,7 +47,7 @@
           <mxGeometry x="414" y="158" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BKfm6hJUiGOScu5fvhKI-22" value="用户是否选择了图片" style="rhombus;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="270" width="120" height="55" as="geometry" />
+          <mxGeometry x="470" y="270" width="140" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
