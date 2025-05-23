@@ -107,7 +107,7 @@
         <mxCell id="BKfm6hJUiGOScu5fvhKI-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BKfm6hJUiGOScu5fvhKI-78" target="BKfm6hJUiGOScu5fvhKI-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BKfm6hJUiGOScu5fvhKI-78" value="检测成功" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BKfm6hJUiGOScu5fvhKI-78" value="检测成功&lt;div&gt;显示在Label中&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="780" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BKfm6hJUiGOScu5fvhKI-80" value="end" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
