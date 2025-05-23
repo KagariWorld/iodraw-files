@@ -79,8 +79,14 @@
         <mxCell id="BKfm6hJUiGOScu5fvhKI-32" value="读取数据写入文件" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="420" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="BKfm6hJUiGOScu5fvhKI-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BKfm6hJUiGOScu5fvhKI-34" target="BKfm6hJUiGOScu5fvhKI-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BKfm6hJUiGOScu5fvhKI-34" value="关闭流和文件，加载临时文件为QPixmap" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BKfm6hJUiGOScu5fvhKI-36" value="" style="rhombus;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="585" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
