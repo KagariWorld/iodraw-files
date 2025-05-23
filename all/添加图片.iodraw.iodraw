@@ -74,8 +74,14 @@
         <mxCell id="BKfm6hJUiGOScu5fvhKI-67" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="220" y="390" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="BKfm6hJUiGOScu5fvhKI-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BKfm6hJUiGOScu5fvhKI-68" target="BKfm6hJUiGOScu5fvhKI-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BKfm6hJUiGOScu5fvhKI-68" value="是否首次检测" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="95" y="480" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BKfm6hJUiGOScu5fvhKI-69" value="检查是否持续&amp;gt;3秒" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
