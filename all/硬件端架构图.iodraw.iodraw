@@ -28,6 +28,15 @@
         <mxCell id="BKfm6hJUiGOScu5fvhKI-127" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;传感器层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="150" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="BKfm6hJUiGOScu5fvhKI-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BKfm6hJUiGOScu5fvhKI-129" target="BKfm6hJUiGOScu5fvhKI-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BKfm6hJUiGOScu5fvhKI-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BKfm6hJUiGOScu5fvhKI-129" target="BKfm6hJUiGOScu5fvhKI-140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BKfm6hJUiGOScu5fvhKI-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BKfm6hJUiGOScu5fvhKI-129" target="BKfm6hJUiGOScu5fvhKI-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BKfm6hJUiGOScu5fvhKI-129" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;执行器层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="150" width="120" height="60" as="geometry" />
         </mxCell>
@@ -47,10 +56,10 @@
           <mxGeometry x="480" y="250" width="50" height="110" as="geometry" />
         </mxCell>
         <mxCell id="BKfm6hJUiGOScu5fvhKI-140" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;继电器+风扇&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="250" width="50" height="110" as="geometry" />
+          <mxGeometry x="555" y="250" width="50" height="110" as="geometry" />
         </mxCell>
         <mxCell id="BKfm6hJUiGOScu5fvhKI-141" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;蜂鸣器&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="250" width="50" height="110" as="geometry" />
+          <mxGeometry x="630" y="250" width="50" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
