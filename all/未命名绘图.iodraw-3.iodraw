@@ -43,11 +43,17 @@
         <mxCell id="0YJtgrF17CSZ5QhATuUa-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0YJtgrF17CSZ5QhATuUa-37" target="0YJtgrF17CSZ5QhATuUa-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="0YJtgrF17CSZ5QhATuUa-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0YJtgrF17CSZ5QhATuUa-37" target="0YJtgrF17CSZ5QhATuUa-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0YJtgrF17CSZ5QhATuUa-37" value="是否收到&lt;span style=&quot;background-color: initial;&quot;&gt;comfort&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;话题消息&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="257.5" y="50" width="165" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0YJtgrF17CSZ5QhATuUa-42" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="340" y="112.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0YJtgrF17CSZ5QhATuUa-45" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="55" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
