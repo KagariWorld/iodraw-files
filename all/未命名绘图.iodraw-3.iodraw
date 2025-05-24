@@ -16,8 +16,14 @@
         <mxCell id="0YJtgrF17CSZ5QhATuUa-24" value="初始化数据文件" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="70" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="0YJtgrF17CSZ5QhATuUa-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0YJtgrF17CSZ5QhATuUa-26" target="0YJtgrF17CSZ5QhATuUa-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0YJtgrF17CSZ5QhATuUa-26" value="文件是否存在" style="rhombus;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="285" y="140" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0YJtgrF17CSZ5QhATuUa-28" value="" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="265" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
