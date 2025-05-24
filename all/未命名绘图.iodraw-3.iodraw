@@ -90,20 +90,26 @@
         <mxCell id="0YJtgrF17CSZ5QhATuUa-53" value="数据是否足够？" style="rhombus;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="221.25" y="555" width="162.5" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0YJtgrF17CSZ5QhATuUa-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0YJtgrF17CSZ5QhATuUa-62" target="0YJtgrF17CSZ5QhATuUa-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0YJtgrF17CSZ5QhATuUa-62" value="计算加权平均值&lt;div&gt;返回预测温湿度&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="101.25" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0YJtgrF17CSZ5QhATuUa-64" value="提示需要更多数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="387.5" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="392.5" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0YJtgrF17CSZ5QhATuUa-68" value="end" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
-          <mxGeometry x="263" y="770" width="80" height="30" as="geometry" />
+          <mxGeometry x="272.5" y="880" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0YJtgrF17CSZ5QhATuUa-71" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="185" y="558" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0YJtgrF17CSZ5QhATuUa-72" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="383.75" y="558" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0YJtgrF17CSZ5QhATuUa-73" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="101.25" y="780" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
