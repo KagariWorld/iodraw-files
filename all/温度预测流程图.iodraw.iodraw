@@ -39,6 +39,9 @@
         <mxCell id="0YJtgrF17CSZ5QhATuUa-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0YJtgrF17CSZ5QhATuUa-86" target="0YJtgrF17CSZ5QhATuUa-94">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="0YJtgrF17CSZ5QhATuUa-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0YJtgrF17CSZ5QhATuUa-86" target="0YJtgrF17CSZ5QhATuUa-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0YJtgrF17CSZ5QhATuUa-86" value="是否读取成功" style="rhombus;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="370" width="120" height="55" as="geometry" />
         </mxCell>
@@ -70,6 +73,12 @@
         </mxCell>
         <mxCell id="0YJtgrF17CSZ5QhATuUa-105" value="等待1-2秒后重试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="599.5" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="0YJtgrF17CSZ5QhATuUa-107" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="370" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0YJtgrF17CSZ5QhATuUa-108" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="380" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
