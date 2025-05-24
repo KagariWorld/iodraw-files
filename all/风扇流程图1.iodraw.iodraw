@@ -52,10 +52,13 @@
           <mxGeometry x="300" y="340" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0YJtgrF17CSZ5QhATuUa-141" value="GPIO低电平" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="450" width="90" height="40" as="geometry" />
+          <mxGeometry x="190" y="450" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0YJtgrF17CSZ5QhATuUa-143" value="GPIO高电平" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="450" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0YJtgrF17CSZ5QhATuUa-144" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="95" y="378" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
