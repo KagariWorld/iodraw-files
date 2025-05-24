@@ -75,8 +75,8 @@
         <mxCell id="0YJtgrF17CSZ5QhATuUa-49" value="保存温湿度到CSV" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="242.5" y="410" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0YJtgrF17CSZ5QhATuUa-51" value="" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="242.5" y="520" width="120" height="50" as="geometry" />
+        <mxCell id="0YJtgrF17CSZ5QhATuUa-51" value="加载最近3条&lt;div&gt;历史数据&lt;/div&gt;" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="242.5" y="480" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
