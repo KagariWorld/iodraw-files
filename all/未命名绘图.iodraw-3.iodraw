@@ -22,8 +22,8 @@
         <mxCell id="0YJtgrF17CSZ5QhATuUa-26" value="文件是否存在" style="rhombus;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="285" y="140" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="0YJtgrF17CSZ5QhATuUa-28" value="" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="265" width="120" height="60" as="geometry" />
+        <mxCell id="0YJtgrF17CSZ5QhATuUa-28" value="等待传感器数据" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="220" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
