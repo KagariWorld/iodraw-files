@@ -65,12 +65,6 @@
         <mxCell id="0YJtgrF17CSZ5QhATuUa-101" value="GPIO输出低电平" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="539" width="100" height="45.5" as="geometry" />
         </mxCell>
-        <mxCell id="0YJtgrF17CSZ5QhATuUa-103" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.866;exitY=0.698;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="0YJtgrF17CSZ5QhATuUa-94">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="570" as="sourcePoint" />
-            <mxPoint x="440" y="520" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
