@@ -56,14 +56,15 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="530" y="48" />
-              <mxPoint x="380" y="48" />
-              <mxPoint x="380" y="68" />
-              <mxPoint x="391" y="68" />
+              <mxPoint x="391" y="48" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="0YJtgrF17CSZ5QhATuUa-45" value="sleep两秒" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="67.5" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="0YJtgrF17CSZ5QhATuUa-48" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="425" y="78" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
