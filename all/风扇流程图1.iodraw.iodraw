@@ -10,8 +10,14 @@
         <mxCell id="0YJtgrF17CSZ5QhATuUa-117" value="start" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
           <mxGeometry x="230" y="50" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="0YJtgrF17CSZ5QhATuUa-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0YJtgrF17CSZ5QhATuUa-118" target="0YJtgrF17CSZ5QhATuUa-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0YJtgrF17CSZ5QhATuUa-118" value="MQTT“fan”主题&lt;div&gt;JSON消息到达&lt;/div&gt;" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0YJtgrF17CSZ5QhATuUa-122" value="消息解析" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="260" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
