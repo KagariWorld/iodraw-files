@@ -19,19 +19,14 @@
         <mxCell id="0YJtgrF17CSZ5QhATuUa-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0YJtgrF17CSZ5QhATuUa-122" target="0YJtgrF17CSZ5QhATuUa-126">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0YJtgrF17CSZ5QhATuUa-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0YJtgrF17CSZ5QhATuUa-122">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="0YJtgrF17CSZ5QhATuUa-122" value="消息解析" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="210" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0YJtgrF17CSZ5QhATuUa-126" value="key=power" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="320" width="120" height="60" as="geometry" />
+        <mxCell id="0YJtgrF17CSZ5QhATuUa-126" value="" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0YJtgrF17CSZ5QhATuUa-129" value="key=power" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="330" width="120" height="60" as="geometry" />
+        <mxCell id="0YJtgrF17CSZ5QhATuUa-132" value="key=power" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="270" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
