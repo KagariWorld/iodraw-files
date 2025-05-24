@@ -10,7 +10,7 @@
         <mxCell id="0YJtgrF17CSZ5QhATuUa-23" value="start" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
           <mxGeometry x="300" y="20" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0YJtgrF17CSZ5QhATuUa-24" value="初始化" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+        <mxCell id="0YJtgrF17CSZ5QhATuUa-24" value="初始化数据文件" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="90" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
