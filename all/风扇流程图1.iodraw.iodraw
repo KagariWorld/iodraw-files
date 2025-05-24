@@ -22,7 +22,7 @@
         <mxCell id="0YJtgrF17CSZ5QhATuUa-122" value="消息解析" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="210" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0YJtgrF17CSZ5QhATuUa-126" value="" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+        <mxCell id="0YJtgrF17CSZ5QhATuUa-126" value="key=power" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
