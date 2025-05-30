@@ -70,8 +70,11 @@
         <mxCell id="oa4NegDarw6r-nfAIP7U-60" value="&lt;font face=&quot;宋体&quot;&gt;用户管理模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="435" y="270" width="30" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="oa4NegDarw6r-nfAIP7U-61" value="&lt;font face=&quot;宋体&quot;&gt;用户管理模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="445" y="280" width="30" height="100" as="geometry" />
+        <mxCell id="oa4NegDarw6r-nfAIP7U-61" value="&lt;font face=&quot;宋体&quot;&gt;公告管理模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="270" width="30" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="oa4NegDarw6r-nfAIP7U-62" value="&lt;font face=&quot;宋体&quot;&gt;公告管理模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="280" width="30" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
