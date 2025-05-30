@@ -7,7 +7,7 @@
         <mxCell id="oa4NegDarw6r-nfAIP7U-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="30" width="460" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="oa4NegDarw6r-nfAIP7U-2" value="智能家居控制系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="oa4NegDarw6r-nfAIP7U-2" value="&lt;font face=&quot;宋体&quot;&gt;智能家居控制系统&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="295" y="30" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
