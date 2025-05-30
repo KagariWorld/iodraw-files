@@ -30,14 +30,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oa4NegDarw6r-nfAIP7U-44" value="&lt;font face=&quot;Times New Roman&quot;&gt;Restful API&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="430" y="90" width="80" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="oa4NegDarw6r-nfAIP7U-45" value="&lt;font face=&quot;宋体&quot;&gt;用户端&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;（Qt）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="190" width="80" height="40" as="geometry" />
+          <mxGeometry x="270" y="200" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oa4NegDarw6r-nfAIP7U-46" value="&lt;font face=&quot;宋体&quot;&gt;管理端（Vue）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="190" width="80" height="40" as="geometry" />
+          <mxGeometry x="380" y="200" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
