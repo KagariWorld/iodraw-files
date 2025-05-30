@@ -129,7 +129,7 @@
         <mxCell id="oa4NegDarw6r-nfAIP7U-78" value="&lt;font face=&quot;宋体&quot;&gt;烟雾报警模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="330" width="30" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="oa4NegDarw6r-nfAIP7U-79" value="&lt;font face=&quot;宋体&quot;&gt;烟雾报警模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oa4NegDarw6r-nfAIP7U-79" value="&lt;font face=&quot;宋体&quot;&gt;火焰报警模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="330" width="30" height="100" as="geometry" />
         </mxCell>
       </root>
