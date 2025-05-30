@@ -35,6 +35,7 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="270" y="120" as="sourcePoint" />
             <mxPoint x="430" y="120" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oa4NegDarw6r-nfAIP7U-11" value="&lt;font face=&quot;宋体&quot;&gt;登录&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
