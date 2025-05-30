@@ -1,0 +1,94 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="12SQHI7ZGGw3Tv0z-A9o">
+    <mxGraphModel dx="687" dy="370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oa4NegDarw6r-nfAIP7U-86" value="&lt;font face=&quot;宋体&quot;&gt;用户&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="304" y="200" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oa4NegDarw6r-nfAIP7U-87" value="&lt;font face=&quot;宋体&quot;&gt;用户&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;id&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="140" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oa4NegDarw6r-nfAIP7U-88" value="&lt;font face=&quot;宋体&quot;&gt;用户名&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="150" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oa4NegDarw6r-nfAIP7U-89" value="&lt;font face=&quot;宋体&quot;&gt;密码&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="180" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oa4NegDarw6r-nfAIP7U-90" value="&lt;font face=&quot;宋体&quot;&gt;邮箱&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="220" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oa4NegDarw6r-nfAIP7U-91" value="&lt;font face=&quot;宋体&quot;&gt;创建时间&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="250" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oa4NegDarw6r-nfAIP7U-92" value="&lt;font face=&quot;宋体&quot;&gt;更新时间&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="250" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oa4NegDarw6r-nfAIP7U-93" value="&lt;font face=&quot;宋体&quot;&gt;状态&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="234" y="240" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oa4NegDarw6r-nfAIP7U-94" value="&lt;font face=&quot;宋体&quot;&gt;人脸&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;token&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oa4NegDarw6r-nfAIP7U-95" value="&lt;font face=&quot;宋体&quot;&gt;用户组&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;id&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="160" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oa4NegDarw6r-nfAIP7U-97" value="" style="endArrow=none;html=1;rounded=0;entryX=0.977;entryY=0.73;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="oa4NegDarw6r-nfAIP7U-86" target="oa4NegDarw6r-nfAIP7U-95">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="300" as="sourcePoint" />
+            <mxPoint x="440" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oa4NegDarw6r-nfAIP7U-99" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="oa4NegDarw6r-nfAIP7U-86" target="oa4NegDarw6r-nfAIP7U-87">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="314" y="210" as="sourcePoint" />
+            <mxPoint x="289" y="199" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oa4NegDarw6r-nfAIP7U-100" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="oa4NegDarw6r-nfAIP7U-86" target="oa4NegDarw6r-nfAIP7U-88">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="339" y="210" as="sourcePoint" />
+            <mxPoint x="320" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oa4NegDarw6r-nfAIP7U-101" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="oa4NegDarw6r-nfAIP7U-86" target="oa4NegDarw6r-nfAIP7U-89">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="352" y="210" as="sourcePoint" />
+            <mxPoint x="375" y="199" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oa4NegDarw6r-nfAIP7U-102" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.001;entryY=0.395;entryDx=0;entryDy=0;exitX=0.989;exitY=0.607;exitDx=0;exitDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="oa4NegDarw6r-nfAIP7U-86" target="oa4NegDarw6r-nfAIP7U-90">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="364" y="218" as="sourcePoint" />
+            <mxPoint x="410" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oa4NegDarw6r-nfAIP7U-103" value="" style="endArrow=none;html=1;rounded=0;entryX=0.269;entryY=0.077;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="oa4NegDarw6r-nfAIP7U-86" target="oa4NegDarw6r-nfAIP7U-91">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="363" y="228" as="sourcePoint" />
+            <mxPoint x="424" y="246" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oa4NegDarw6r-nfAIP7U-104" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="oa4NegDarw6r-nfAIP7U-86" target="oa4NegDarw6r-nfAIP7U-92">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="364" y="240" as="sourcePoint" />
+            <mxPoint x="386" y="263" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oa4NegDarw6r-nfAIP7U-105" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="oa4NegDarw6r-nfAIP7U-86" target="oa4NegDarw6r-nfAIP7U-93">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="339" y="240" as="sourcePoint" />
+            <mxPoint x="334" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oa4NegDarw6r-nfAIP7U-106" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="oa4NegDarw6r-nfAIP7U-86" target="oa4NegDarw6r-nfAIP7U-94">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="314" y="240" as="sourcePoint" />
+            <mxPoint x="295" y="256" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
