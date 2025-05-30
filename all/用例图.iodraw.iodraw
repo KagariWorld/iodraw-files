@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="oa4NegDarw6r-nfAIP7U-39" value="&lt;font face=&quot;宋体&quot;&gt;数据库&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="30" width="60" height="30" as="geometry" />
+        <mxCell id="oa4NegDarw6r-nfAIP7U-39" value="&lt;font face=&quot;宋体&quot;&gt;数据库&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;（MySQL、Redis）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="30" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
