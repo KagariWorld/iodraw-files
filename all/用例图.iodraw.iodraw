@@ -46,7 +46,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oa4NegDarw6r-nfAIP7U-45" value="&lt;font face=&quot;宋体&quot;&gt;用户端&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;（Qt）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oa4NegDarw6r-nfAIP7U-45" value="&lt;font face=&quot;宋体&quot;&gt;用户端&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;(Qt)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="200" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oa4NegDarw6r-nfAIP7U-46" value="&lt;font face=&quot;宋体&quot;&gt;管理端（Vue）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
