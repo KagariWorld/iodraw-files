@@ -24,19 +24,9 @@
             <mxPoint x="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KKNcuESSx0cQUIdyki5v-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KKNcuESSx0cQUIdyki5v-56">
+        <mxCell id="KKNcuESSx0cQUIdyki5v-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KKNcuESSx0cQUIdyki5v-56">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="660" y="375" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="583" y="375" />
-              <mxPoint x="583" y="320" />
-              <mxPoint x="413" y="320" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KKNcuESSx0cQUIdyki5v-63" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 12px;&quot;&gt;否&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KKNcuESSx0cQUIdyki5v-62">
-          <mxGeometry x="-0.7138" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="650" y="375.33333333333337" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KKNcuESSx0cQUIdyki5v-56" value="&lt;font face=&quot;Times New Roman&quot;&gt;event&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;是否为&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;true&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
