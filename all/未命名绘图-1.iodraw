@@ -31,7 +31,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rPn5AujdeKN2KojU03Bd-9" value="&lt;font face=&quot;宋体&quot;&gt;创建&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Intent&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;，&lt;/font&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体;&quot;&gt;设置&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;MIME&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体;&quot;&gt;类型为&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;image/*&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;，&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体;&quot;&gt;添加&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;OPENABLE&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体;&quot;&gt;类别，启动&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Activity&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="258" y="450" width="128" height="60" as="geometry" />
+          <mxGeometry x="258" y="440" width="128" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rPn5AujdeKN2KojU03Bd-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rPn5AujdeKN2KojU03Bd-24" target="rPn5AujdeKN2KojU03Bd-13">
           <mxGeometry relative="1" as="geometry">
@@ -47,7 +47,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rPn5AujdeKN2KojU03Bd-13" value="&lt;font face=&quot;宋体&quot;&gt;获取&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;URI&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;、输入流，创建临时文件&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="262" y="640" width="120" height="40" as="geometry" />
+          <mxGeometry x="262" y="600" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rPn5AujdeKN2KojU03Bd-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rPn5AujdeKN2KojU03Bd-18" target="rPn5AujdeKN2KojU03Bd-20">
           <mxGeometry relative="1" as="geometry" />
@@ -90,7 +90,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rPn5AujdeKN2KojU03Bd-24" value="&lt;font face=&quot;宋体&quot;&gt;用户是否选择了图片&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="530" width="144" height="40" as="geometry" />
+          <mxGeometry x="250" y="520" width="144" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rPn5AujdeKN2KojU03Bd-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rPn5AujdeKN2KojU03Bd-26" target="rPn5AujdeKN2KojU03Bd-28">
           <mxGeometry relative="1" as="geometry" />
