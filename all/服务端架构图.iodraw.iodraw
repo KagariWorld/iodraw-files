@@ -84,7 +84,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z0JLqTnE3_PegRgGZbdZ-201" value="&lt;font face=&quot;宋体&quot;&gt;输入从服务端&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;获取到的验证码&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="565" y="540" width="130" height="60" as="geometry" />
+          <mxGeometry x="317.5" y="370" width="125" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
