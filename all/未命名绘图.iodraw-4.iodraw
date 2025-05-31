@@ -107,9 +107,6 @@
             <mxPoint x="404" y="317.1405750798722" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jffMGip-2nsmGj-4qzeh-32" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="335" y="310" width="30" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="jffMGip-2nsmGj-4qzeh-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jffMGip-2nsmGj-4qzeh-34" target="jffMGip-2nsmGj-4qzeh-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
