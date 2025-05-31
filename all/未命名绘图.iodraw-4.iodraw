@@ -25,6 +25,9 @@
         <mxCell id="jffMGip-2nsmGj-4qzeh-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jffMGip-2nsmGj-4qzeh-9" target="jffMGip-2nsmGj-4qzeh-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="jffMGip-2nsmGj-4qzeh-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jffMGip-2nsmGj-4qzeh-9" target="jffMGip-2nsmGj-4qzeh-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jffMGip-2nsmGj-4qzeh-9" value="&lt;font face=&quot;宋体&quot;&gt;是否按下&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;q&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="205" y="275" width="110" height="50" as="geometry" />
         </mxCell>
@@ -89,7 +92,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jffMGip-2nsmGj-4qzeh-34" value="停止摄像头&lt;div&gt;关闭UDP连接&lt;/div&gt;&lt;div&gt;关闭显示窗口&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="560.0005750798722" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="360.0005750798722" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jffMGip-2nsmGj-4qzeh-35" value="end" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
           <mxGeometry x="310" y="1005" width="80" height="30" as="geometry" />
