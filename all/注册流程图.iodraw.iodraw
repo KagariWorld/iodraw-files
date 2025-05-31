@@ -4,96 +4,62 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SLIg3Pp4o-THQ8IUFyYi-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SLIg3Pp4o-THQ8IUFyYi-69" target="SLIg3Pp4o-THQ8IUFyYi-73">
+        <mxCell id="SLIg3Pp4o-THQ8IUFyYi-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SLIg3Pp4o-THQ8IUFyYi-191" target="SLIg3Pp4o-THQ8IUFyYi-196">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SLIg3Pp4o-THQ8IUFyYi-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SLIg3Pp4o-THQ8IUFyYi-69" target="SLIg3Pp4o-THQ8IUFyYi-83">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="620" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SLIg3Pp4o-THQ8IUFyYi-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SLIg3Pp4o-THQ8IUFyYi-69" target="SLIg3Pp4o-THQ8IUFyYi-79">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590" y="620" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SLIg3Pp4o-THQ8IUFyYi-69" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 12px;&quot;&gt;服务端&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="383.75" y="520" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SLIg3Pp4o-THQ8IUFyYi-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SLIg3Pp4o-THQ8IUFyYi-73" target="SLIg3Pp4o-THQ8IUFyYi-87">
+        <mxCell id="SLIg3Pp4o-THQ8IUFyYi-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SLIg3Pp4o-THQ8IUFyYi-191" target="SLIg3Pp4o-THQ8IUFyYi-200">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SLIg3Pp4o-THQ8IUFyYi-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SLIg3Pp4o-THQ8IUFyYi-73" target="SLIg3Pp4o-THQ8IUFyYi-88">
+        <mxCell id="SLIg3Pp4o-THQ8IUFyYi-191" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;树莓派&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SLIg3Pp4o-THQ8IUFyYi-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SLIg3Pp4o-THQ8IUFyYi-196" target="SLIg3Pp4o-THQ8IUFyYi-201">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SLIg3Pp4o-THQ8IUFyYi-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SLIg3Pp4o-THQ8IUFyYi-73" target="SLIg3Pp4o-THQ8IUFyYi-89">
+        <mxCell id="SLIg3Pp4o-THQ8IUFyYi-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SLIg3Pp4o-THQ8IUFyYi-196" target="SLIg3Pp4o-THQ8IUFyYi-202">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SLIg3Pp4o-THQ8IUFyYi-73" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;common&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;宋体&quot;&gt;模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="590" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="SLIg3Pp4o-THQ8IUFyYi-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SLIg3Pp4o-THQ8IUFyYi-79" target="SLIg3Pp4o-THQ8IUFyYi-90">
+        <mxCell id="SLIg3Pp4o-THQ8IUFyYi-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SLIg3Pp4o-THQ8IUFyYi-196" target="SLIg3Pp4o-THQ8IUFyYi-203">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SLIg3Pp4o-THQ8IUFyYi-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SLIg3Pp4o-THQ8IUFyYi-79" target="SLIg3Pp4o-THQ8IUFyYi-91">
+        <mxCell id="SLIg3Pp4o-THQ8IUFyYi-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SLIg3Pp4o-THQ8IUFyYi-196" target="SLIg3Pp4o-THQ8IUFyYi-204">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SLIg3Pp4o-THQ8IUFyYi-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SLIg3Pp4o-THQ8IUFyYi-79" target="SLIg3Pp4o-THQ8IUFyYi-92">
+        <mxCell id="SLIg3Pp4o-THQ8IUFyYi-196" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;传感器层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SLIg3Pp4o-THQ8IUFyYi-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SLIg3Pp4o-THQ8IUFyYi-200" target="SLIg3Pp4o-THQ8IUFyYi-205">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SLIg3Pp4o-THQ8IUFyYi-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SLIg3Pp4o-THQ8IUFyYi-79" target="SLIg3Pp4o-THQ8IUFyYi-93">
+        <mxCell id="SLIg3Pp4o-THQ8IUFyYi-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SLIg3Pp4o-THQ8IUFyYi-200" target="SLIg3Pp4o-THQ8IUFyYi-206">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SLIg3Pp4o-THQ8IUFyYi-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SLIg3Pp4o-THQ8IUFyYi-79" target="SLIg3Pp4o-THQ8IUFyYi-94">
+        <mxCell id="SLIg3Pp4o-THQ8IUFyYi-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SLIg3Pp4o-THQ8IUFyYi-200" target="SLIg3Pp4o-THQ8IUFyYi-207">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SLIg3Pp4o-THQ8IUFyYi-79" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Times New Roman&quot;&gt;server&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;宋体&quot;&gt;模块&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="590" width="50" height="50" as="geometry" />
+        <mxCell id="SLIg3Pp4o-THQ8IUFyYi-200" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;执行器层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SLIg3Pp4o-THQ8IUFyYi-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SLIg3Pp4o-THQ8IUFyYi-83" target="SLIg3Pp4o-THQ8IUFyYi-84">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="SLIg3Pp4o-THQ8IUFyYi-201" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;DHT11温湿度传感器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="250" width="50" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="SLIg3Pp4o-THQ8IUFyYi-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SLIg3Pp4o-THQ8IUFyYi-83" target="SLIg3Pp4o-THQ8IUFyYi-85">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="SLIg3Pp4o-THQ8IUFyYi-202" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;火焰&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;传感器&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="250" width="50" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="SLIg3Pp4o-THQ8IUFyYi-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SLIg3Pp4o-THQ8IUFyYi-83" target="SLIg3Pp4o-THQ8IUFyYi-86">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="SLIg3Pp4o-THQ8IUFyYi-203" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;MQ-2烟雾&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;传感器&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="250" width="50" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="SLIg3Pp4o-THQ8IUFyYi-83" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;pojo&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 12px;&quot;&gt;模块&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="385" y="590" width="47.5" height="50" as="geometry" />
+        <mxCell id="SLIg3Pp4o-THQ8IUFyYi-204" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;HC-SR501红外传感器&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="250" width="50" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="SLIg3Pp4o-THQ8IUFyYi-84" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;DTO&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="680" width="30" height="60" as="geometry" />
+        <mxCell id="SLIg3Pp4o-THQ8IUFyYi-205" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;照明灯&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="250" width="50" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="SLIg3Pp4o-THQ8IUFyYi-85" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Times New Roman&quot;&gt;entity&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="391.25" y="680" width="35" height="60" as="geometry" />
+        <mxCell id="SLIg3Pp4o-THQ8IUFyYi-206" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;继电器+风扇&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="250" width="50" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="SLIg3Pp4o-THQ8IUFyYi-86" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Times New Roman&quot;&gt;VO&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="433.75" y="680" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="SLIg3Pp4o-THQ8IUFyYi-87" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;宋体&quot;&gt;异常&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="680" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="SLIg3Pp4o-THQ8IUFyYi-88" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;宋体&quot;&gt;常量&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="680" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="SLIg3Pp4o-THQ8IUFyYi-89" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;宋体&quot;&gt;统一返回结果类&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="680" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="SLIg3Pp4o-THQ8IUFyYi-90" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;宋体&quot;&gt;控制层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="680" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="SLIg3Pp4o-THQ8IUFyYi-91" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;宋体&quot;&gt;业务逻辑层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="680" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="SLIg3Pp4o-THQ8IUFyYi-92" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;宋体&quot;&gt;数据访问层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="680" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="SLIg3Pp4o-THQ8IUFyYi-93" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;宋体&quot;&gt;配置工具类&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="680" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="SLIg3Pp4o-THQ8IUFyYi-94" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 12px;&quot;&gt;切面类&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="680" width="30" height="60" as="geometry" />
+        <mxCell id="SLIg3Pp4o-THQ8IUFyYi-207" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;蜂鸣器&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="250" width="50" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
