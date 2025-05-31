@@ -45,7 +45,7 @@
         <mxCell id="N-3cBxAv2vDXoT0TNU5k-62" value="&lt;font face=&quot;宋体&quot;&gt;是否监测到人脸且&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;检查时间是否&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;gt;3&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;秒&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="372" y="580" width="144" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="N-3cBxAv2vDXoT0TNU5k-65" value="&lt;font face=&quot;宋体&quot;&gt;解码为&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;OpenCV Mat&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;图像预处理&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;灰度转换&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;直方图均衡化&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="N-3cBxAv2vDXoT0TNU5k-65" value="&lt;font face=&quot;宋体&quot;&gt;发送监测到的信号&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;重置计时器&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="384" y="710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
