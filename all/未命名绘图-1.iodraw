@@ -50,6 +50,11 @@
         <mxCell id="N-3cBxAv2vDXoT0TNU5k-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N-3cBxAv2vDXoT0TNU5k-60" target="N-3cBxAv2vDXoT0TNU5k-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="N-3cBxAv2vDXoT0TNU5k-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="N-3cBxAv2vDXoT0TNU5k-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="N-3cBxAv2vDXoT0TNU5k-60" value="&lt;font face=&quot;宋体&quot;&gt;人脸检测&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="384" y="520" width="120" height="30" as="geometry" />
         </mxCell>
