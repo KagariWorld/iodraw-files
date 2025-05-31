@@ -74,8 +74,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="z0JLqTnE3_PegRgGZbdZ-190" value="等待10秒" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="404" y="700" width="120" height="60" as="geometry" />
+        <mxCell id="z0JLqTnE3_PegRgGZbdZ-190" value="&lt;font face=&quot;宋体&quot;&gt;等待&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;10&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;秒&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z0JLqTnE3_PegRgGZbdZ-191" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="500" y="770" width="30" height="30" as="geometry" />
