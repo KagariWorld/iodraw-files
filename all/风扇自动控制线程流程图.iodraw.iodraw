@@ -8,13 +8,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KKNcuESSx0cQUIdyki5v-53" value="&lt;font face=&quot;宋体&quot;&gt;开始&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
-          <mxGeometry x="213.12" y="30" width="80" height="30" as="geometry" />
+          <mxGeometry x="211.56" y="70" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KKNcuESSx0cQUIdyki5v-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KKNcuESSx0cQUIdyki5v-54" target="KKNcuESSx0cQUIdyki5v-79">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KKNcuESSx0cQUIdyki5v-54" value="&lt;font face=&quot;Times New Roman&quot;&gt;event.wait()&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;阻塞线程&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="193.12" y="100" width="120" height="50" as="geometry" />
+          <mxGeometry x="191.56" y="130" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KKNcuESSx0cQUIdyki5v-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KKNcuESSx0cQUIdyki5v-56" target="KKNcuESSx0cQUIdyki5v-58">
           <mxGeometry relative="1" as="geometry" />
