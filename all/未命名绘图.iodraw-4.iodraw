@@ -79,6 +79,11 @@
         <mxCell id="N-3cBxAv2vDXoT0TNU5k-75" value="&lt;font face=&quot;宋体&quot;&gt;结束&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
           <mxGeometry x="292" y="1030" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="N-3cBxAv2vDXoT0TNU5k-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N-3cBxAv2vDXoT0TNU5k-144">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="N-3cBxAv2vDXoT0TNU5k-144" value="&lt;font face=&quot;宋体&quot;&gt;用户是否选择了图片&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="550" width="144" height="50" as="geometry" />
         </mxCell>
@@ -97,8 +102,9 @@
         <mxCell id="N-3cBxAv2vDXoT0TNU5k-155" value="&lt;font face=&quot;宋体&quot;&gt;显示错误并返回&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="394" y="940" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="N-3cBxAv2vDXoT0TNU5k-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="N-3cBxAv2vDXoT0TNU5k-155" target="N-3cBxAv2vDXoT0TNU5k-75">
+        <mxCell id="N-3cBxAv2vDXoT0TNU5k-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="N-3cBxAv2vDXoT0TNU5k-155">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="1010" as="targetPoint" />
             <Array as="points">
               <mxPoint x="454" y="1010" />
               <mxPoint x="352" y="1010" />
