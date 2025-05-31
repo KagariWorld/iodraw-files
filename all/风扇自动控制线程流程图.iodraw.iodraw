@@ -138,13 +138,13 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="250" y="170" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="650" y="880" />
+              <mxPoint x="650" y="830" />
               <mxPoint x="650" y="170" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="KKNcuESSx0cQUIdyki5v-94" value="&lt;font face=&quot;宋体&quot;&gt;等待&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;1&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;秒&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="810" width="120" height="40" as="geometry" />
+          <mxGeometry x="450" y="810" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KKNcuESSx0cQUIdyki5v-99" value="&lt;font face=&quot;宋体&quot;&gt;结束&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
           <mxGeometry x="213.12" y="380" width="80" height="30" as="geometry" />
