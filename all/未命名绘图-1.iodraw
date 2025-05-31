@@ -82,7 +82,18 @@
             <mxPoint x="610" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N-3cBxAv2vDXoT0TNU5k-89" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N-3cBxAv2vDXoT0TNU5k-88">
+        <mxCell id="N-3cBxAv2vDXoT0TNU5k-89" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 12px;&quot;&gt;否&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N-3cBxAv2vDXoT0TNU5k-88">
+          <mxGeometry x="-0.0468" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-3cBxAv2vDXoT0TNU5k-90" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="526" y="370" as="sourcePoint" />
+            <mxPoint x="620" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-3cBxAv2vDXoT0TNU5k-91" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 12px;&quot;&gt;否&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N-3cBxAv2vDXoT0TNU5k-90">
           <mxGeometry x="-0.0468" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
