@@ -57,8 +57,8 @@
             <mxPoint x="-2" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N-3cBxAv2vDXoT0TNU5k-69" value="&lt;font face=&quot;Times New Roman&quot;&gt;MQTT&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;是否收到红外信号&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="870" width="144" height="50" as="geometry" />
+        <mxCell id="N-3cBxAv2vDXoT0TNU5k-69" value="&lt;font face=&quot;宋体&quot;&gt;是否加载成功&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="850" width="144" height="50" as="geometry" />
         </mxCell>
         <mxCell id="N-3cBxAv2vDXoT0TNU5k-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N-3cBxAv2vDXoT0TNU5k-73" target="N-3cBxAv2vDXoT0TNU5k-75">
           <mxGeometry relative="1" as="geometry" />
@@ -77,6 +77,9 @@
         </mxCell>
         <mxCell id="N-3cBxAv2vDXoT0TNU5k-146" value="&lt;font face=&quot;宋体&quot;&gt;读取数据写入文件&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="262" y="710" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N-3cBxAv2vDXoT0TNU5k-152" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N-3cBxAv2vDXoT0TNU5k-150" target="N-3cBxAv2vDXoT0TNU5k-69">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N-3cBxAv2vDXoT0TNU5k-150" value="&lt;font face=&quot;宋体&quot;&gt;关闭流和文件，加载临时文件为&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;QPixMap&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="262" y="780" width="120" height="40" as="geometry" />
