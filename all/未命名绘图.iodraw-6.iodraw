@@ -16,8 +16,14 @@
         <mxCell id="KKNcuESSx0cQUIdyki5v-54" value="&lt;font face=&quot;Times New Roman&quot;&gt;event.wait()&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;阻塞线程&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="100" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="KKNcuESSx0cQUIdyki5v-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KKNcuESSx0cQUIdyki5v-56" target="KKNcuESSx0cQUIdyki5v-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KKNcuESSx0cQUIdyki5v-56" value="&lt;font face=&quot;Times New Roman&quot;&gt;event&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;是否为&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;true&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="210" width="120" height="50" as="geometry" />
+          <mxGeometry x="340" y="200" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KKNcuESSx0cQUIdyki5v-58" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="325" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
