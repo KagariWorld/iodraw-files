@@ -4,11 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3WP2pgHgUXU8LOw9YfnK-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3WP2pgHgUXU8LOw9YfnK-1" target="3WP2pgHgUXU8LOw9YfnK-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3WP2pgHgUXU8LOw9YfnK-1" value="&lt;font face=&quot;宋体&quot;&gt;开始&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
           <mxGeometry x="374" y="40" width="56" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3WP2pgHgUXU8LOw9YfnK-2" value="是否收到comfort&lt;div&gt;话题消息&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="329.5" y="110" width="145" height="60" as="geometry" />
+          <mxGeometry x="329.5" y="90" width="145" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
