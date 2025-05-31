@@ -59,7 +59,7 @@
         </mxCell>
         <mxCell id="vK-xlTvVrPjy3QTliWF2-34" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;宋体&quot;&gt;否&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vK-xlTvVrPjy3QTliWF2-12">
           <mxGeometry x="-0.5477" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vK-xlTvVrPjy3QTliWF2-13" value="&lt;font face=&quot;Times New Roman&quot;&gt;value&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;是否为&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;1&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -93,10 +93,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vK-xlTvVrPjy3QTliWF2-18" value="GPIO高电平" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="36" y="470" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="vK-xlTvVrPjy3QTliWF2-19" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="86" y="410" width="30" height="30" as="geometry" />
+          <mxGeometry x="106" y="470" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vK-xlTvVrPjy3QTliWF2-21" value="event.set" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="460" width="90" height="50" as="geometry" />
