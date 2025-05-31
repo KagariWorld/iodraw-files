@@ -128,6 +128,9 @@
         <mxCell id="KKNcuESSx0cQUIdyki5v-79" value="&lt;font face=&quot;宋体&quot;&gt;用户是否停止程序&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="191.56" y="200" width="123.12" height="55" as="geometry" />
         </mxCell>
+        <mxCell id="KKNcuESSx0cQUIdyki5v-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KKNcuESSx0cQUIdyki5v-85" target="KKNcuESSx0cQUIdyki5v-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KKNcuESSx0cQUIdyki5v-85" value="&lt;font face=&quot;宋体&quot;&gt;线程结束&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="193.13" y="310" width="120" height="40" as="geometry" />
         </mxCell>
@@ -143,8 +146,8 @@
         <mxCell id="KKNcuESSx0cQUIdyki5v-94" value="&lt;font face=&quot;宋体&quot;&gt;等待&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;1&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;秒&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="860" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KKNcuESSx0cQUIdyki5v-99" value="&lt;font face=&quot;宋体&quot;&gt;开始&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
-          <mxGeometry x="223.12" y="40" width="80" height="30" as="geometry" />
+        <mxCell id="KKNcuESSx0cQUIdyki5v-99" value="&lt;font face=&quot;宋体&quot;&gt;结束&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="213.12" y="390" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
