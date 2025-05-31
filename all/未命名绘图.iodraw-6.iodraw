@@ -10,7 +10,7 @@
         <mxCell id="KKNcuESSx0cQUIdyki5v-53" value="&lt;font face=&quot;宋体&quot;&gt;开始&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
           <mxGeometry x="213.12" y="30" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KKNcuESSx0cQUIdyki5v-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KKNcuESSx0cQUIdyki5v-54" target="KKNcuESSx0cQUIdyki5v-56">
+        <mxCell id="KKNcuESSx0cQUIdyki5v-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KKNcuESSx0cQUIdyki5v-54" target="KKNcuESSx0cQUIdyki5v-79">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KKNcuESSx0cQUIdyki5v-54" value="&lt;font face=&quot;Times New Roman&quot;&gt;event.wait()&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;阻塞线程&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -91,6 +91,9 @@
         </mxCell>
         <mxCell id="KKNcuESSx0cQUIdyki5v-78" value="&lt;font face=&quot;Times New Roman&quot;&gt;GPIO&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;输出低电平&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="336.25" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KKNcuESSx0cQUIdyki5v-79" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="215" width="123.12" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
