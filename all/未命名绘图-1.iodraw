@@ -15,7 +15,7 @@
         <mxCell id="N-3cBxAv2vDXoT0TNU5k-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="N-3cBxAv2vDXoT0TNU5k-41" target="N-3cBxAv2vDXoT0TNU5k-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="330" y="605" />
+              <mxPoint x="330" y="620" />
               <mxPoint x="330" y="330" />
             </Array>
           </mxGeometry>
@@ -54,7 +54,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N-3cBxAv2vDXoT0TNU5k-41" value="&lt;font face=&quot;宋体&quot;&gt;判断输入信息&lt;span style=&quot;background-color: initial;&quot;&gt;是否正确&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;且密码是否正确&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="N-3cBxAv2vDXoT0TNU5k-41" value="&lt;font face=&quot;宋体&quot;&gt;判断输入信息&lt;span style=&quot;background-color: initial;&quot;&gt;是否正确&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="570" width="170" height="100" as="geometry" />
         </mxCell>
       </root>
