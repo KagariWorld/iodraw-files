@@ -47,6 +47,14 @@
         <mxCell id="jffMGip-2nsmGj-4qzeh-11" value="&lt;font face=&quot;宋体&quot;&gt;捕获视频帧&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;初始质量压缩&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="395" y="360" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="jffMGip-2nsmGj-4qzeh-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jffMGip-2nsmGj-4qzeh-15" target="jffMGip-2nsmGj-4qzeh-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jffMGip-2nsmGj-4qzeh-41" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;宋体&quot;&gt;是&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jffMGip-2nsmGj-4qzeh-40">
+          <mxGeometry x="-0.19" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="jffMGip-2nsmGj-4qzeh-15" value="&lt;font face=&quot;宋体&quot;&gt;大小是否&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;lt;=65500&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;字节&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="430" width="150" height="50" as="geometry" />
         </mxCell>
