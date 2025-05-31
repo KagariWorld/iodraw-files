@@ -68,7 +68,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rPn5AujdeKN2KojU03Bd-18" value="&lt;font face=&quot;宋体&quot;&gt;是否加载成功&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="850" width="144" height="50" as="geometry" />
+          <mxGeometry x="250" y="770" width="144" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rPn5AujdeKN2KojU03Bd-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rPn5AujdeKN2KojU03Bd-20" target="rPn5AujdeKN2KojU03Bd-21">
           <mxGeometry relative="1" as="geometry" />
@@ -102,7 +102,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rPn5AujdeKN2KojU03Bd-28" value="&lt;font face=&quot;宋体&quot;&gt;关闭流和文件，加载临时文件为&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;QPixMap&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="262" y="780" width="120" height="40" as="geometry" />
+          <mxGeometry x="262" y="710" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rPn5AujdeKN2KojU03Bd-29" value="&lt;font face=&quot;宋体&quot;&gt;显示错误并返回&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="394" y="940" width="120" height="40" as="geometry" />
