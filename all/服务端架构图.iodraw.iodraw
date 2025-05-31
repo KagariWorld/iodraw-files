@@ -15,10 +15,11 @@
         <mxCell id="z0JLqTnE3_PegRgGZbdZ-160" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 12px;&quot;&gt;结束&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
           <mxGeometry x="80" y="300" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z0JLqTnE3_PegRgGZbdZ-168" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z0JLqTnE3_PegRgGZbdZ-169" target="z0JLqTnE3_PegRgGZbdZ-171">
+        <mxCell id="z0JLqTnE3_PegRgGZbdZ-168" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z0JLqTnE3_PegRgGZbdZ-169" target="z0JLqTnE3_PegRgGZbdZ-171">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="380" y="360" />
+              <mxPoint x="380" y="380" />
+              <mxPoint x="380" y="380" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -29,7 +30,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z0JLqTnE3_PegRgGZbdZ-171" value="点击获取验证码" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="325" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z0JLqTnE3_PegRgGZbdZ-172" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z0JLqTnE3_PegRgGZbdZ-174" target="z0JLqTnE3_PegRgGZbdZ-181">
           <mxGeometry relative="1" as="geometry" />
