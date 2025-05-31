@@ -50,11 +50,11 @@
         </mxCell>
         <mxCell id="vK-xlTvVrPjy3QTliWF2-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vK-xlTvVrPjy3QTliWF2-15" target="vK-xlTvVrPjy3QTliWF2-22">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="580" y="430" as="targetPoint" />
+            <mxPoint x="765.8" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vK-xlTvVrPjy3QTliWF2-15" value="value是否为1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="320" width="130" height="50" as="geometry" />
+          <mxGeometry x="605.8" y="320" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vK-xlTvVrPjy3QTliWF2-16" value="GPIO低电平" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="430" width="90" height="40" as="geometry" />
@@ -72,13 +72,15 @@
           <mxGeometry x="330" y="370" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vK-xlTvVrPjy3QTliWF2-21" value="event.set" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="430" width="90" height="40" as="geometry" />
+          <mxGeometry x="570" y="430" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vK-xlTvVrPjy3QTliWF2-22" value="event.clear&lt;div&gt;并根据power更新风扇状态&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="420" width="100" height="50" as="geometry" />
+          <mxGeometry x="695.8" y="420" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vK-xlTvVrPjy3QTliWF2-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.158;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vK-xlTvVrPjy3QTliWF2-15" target="vK-xlTvVrPjy3QTliWF2-21">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="vK-xlTvVrPjy3QTliWF2-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.158;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vK-xlTvVrPjy3QTliWF2-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600.02" y="430.4" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="vK-xlTvVrPjy3QTliWF2-24" value="end" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
           <mxGeometry x="350" y="610" width="80" height="30" as="geometry" />
