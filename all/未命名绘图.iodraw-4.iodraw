@@ -53,7 +53,7 @@
         <mxCell id="jffMGip-2nsmGj-4qzeh-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jffMGip-2nsmGj-4qzeh-15" target="jffMGip-2nsmGj-4qzeh-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jffMGip-2nsmGj-4qzeh-15" value="&lt;font face=&quot;宋体&quot;&gt;大小是否&amp;lt;=65500字节&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+        <mxCell id="jffMGip-2nsmGj-4qzeh-15" value="&lt;font face=&quot;宋体&quot;&gt;大小是否&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;lt;=65500&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;字节&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="450" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jffMGip-2nsmGj-4qzeh-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jffMGip-2nsmGj-4qzeh-17" target="jffMGip-2nsmGj-4qzeh-21">
