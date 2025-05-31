@@ -63,8 +63,8 @@
         <mxCell id="N-3cBxAv2vDXoT0TNU5k-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N-3cBxAv2vDXoT0TNU5k-73" target="N-3cBxAv2vDXoT0TNU5k-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N-3cBxAv2vDXoT0TNU5k-73" value="&lt;font face=&quot;宋体&quot;&gt;检测成功&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;显示在Label中&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="262" y="940" width="120" height="40" as="geometry" />
+        <mxCell id="N-3cBxAv2vDXoT0TNU5k-73" value="&lt;font face=&quot;宋体&quot;&gt;缩放图片并显示&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="262" y="940" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="N-3cBxAv2vDXoT0TNU5k-75" value="&lt;font face=&quot;宋体&quot;&gt;结束&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
           <mxGeometry x="292" y="1030" width="60" height="30" as="geometry" />
