@@ -19,6 +19,9 @@
         <mxCell id="ATg70PmlxbhFAZnYXTBp-5" value="&lt;font face=&quot;宋体&quot;&gt;MQTT管理者模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="160" width="30" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="ATg70PmlxbhFAZnYXTBp-6" value="&lt;font face=&quot;宋体&quot;&gt;HTTP管理者模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="160" width="30" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
