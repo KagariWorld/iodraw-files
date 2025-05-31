@@ -65,9 +65,6 @@
         <mxCell id="jffMGip-2nsmGj-4qzeh-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jffMGip-2nsmGj-4qzeh-21" target="jffMGip-2nsmGj-4qzeh-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jffMGip-2nsmGj-4qzeh-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jffMGip-2nsmGj-4qzeh-21" target="jffMGip-2nsmGj-4qzeh-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="jffMGip-2nsmGj-4qzeh-21" value="是否到达最大&lt;div&gt;调整次数3次&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="690" width="130" height="80" as="geometry" />
         </mxCell>
@@ -76,9 +73,6 @@
         </mxCell>
         <mxCell id="jffMGip-2nsmGj-4qzeh-24" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="455" y="780" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jffMGip-2nsmGj-4qzeh-25" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="360" y="700" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jffMGip-2nsmGj-4qzeh-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jffMGip-2nsmGj-4qzeh-27" target="jffMGip-2nsmGj-4qzeh-30">
           <mxGeometry relative="1" as="geometry" />
