@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ATg70PmlxbhFAZnYXTBp-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ATg70PmlxbhFAZnYXTBp-1" target="ATg70PmlxbhFAZnYXTBp-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ATg70PmlxbhFAZnYXTBp-1" value="&lt;font face=&quot;宋体&quot;&gt;用户端&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="80" width="50" height="30" as="geometry" />
         </mxCell>
@@ -35,19 +38,19 @@
           <mxGeometry x="470" y="280" width="30" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ATg70PmlxbhFAZnYXTBp-11" value="&lt;font face=&quot;宋体&quot;&gt;监控模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="390" width="30" height="70" as="geometry" />
+          <mxGeometry x="320" y="410" width="30" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ATg70PmlxbhFAZnYXTBp-12" value="&lt;font face=&quot;宋体&quot;&gt;烟雾火焰报警模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="390" width="30" height="70" as="geometry" />
+          <mxGeometry x="370" y="410" width="30" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ATg70PmlxbhFAZnYXTBp-13" value="&lt;font face=&quot;宋体&quot;&gt;温湿度模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="390" width="30" height="70" as="geometry" />
+          <mxGeometry x="420" y="410" width="30" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ATg70PmlxbhFAZnYXTBp-14" value="&lt;font face=&quot;宋体&quot;&gt;风扇模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="390" width="30" height="70" as="geometry" />
+          <mxGeometry x="470" y="410" width="30" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ATg70PmlxbhFAZnYXTBp-15" value="&lt;font face=&quot;宋体&quot;&gt;风扇模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="390" width="30" height="70" as="geometry" />
+        <mxCell id="ATg70PmlxbhFAZnYXTBp-15" value="&lt;font face=&quot;宋体&quot;&gt;灯光控制模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="410" width="30" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
