@@ -58,6 +58,11 @@
         <mxCell id="jffMGip-2nsmGj-4qzeh-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="jffMGip-2nsmGj-4qzeh-15" target="jffMGip-2nsmGj-4qzeh-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="jffMGip-2nsmGj-4qzeh-47" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jffMGip-2nsmGj-4qzeh-43">
+          <mxGeometry x="0.6" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="jffMGip-2nsmGj-4qzeh-15" value="&lt;font face=&quot;宋体&quot;&gt;大小是否&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;lt;=65500&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;字节&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="430" width="150" height="50" as="geometry" />
         </mxCell>
@@ -65,7 +70,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jffMGip-2nsmGj-4qzeh-17" value="&lt;font face=&quot;宋体&quot;&gt;质量&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;-5%&lt;/font&gt;" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="595" y="490" width="120" height="30" as="geometry" />
+          <mxGeometry x="595" y="520" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jffMGip-2nsmGj-4qzeh-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jffMGip-2nsmGj-4qzeh-21" target="jffMGip-2nsmGj-4qzeh-23">
           <mxGeometry relative="1" as="geometry" />
