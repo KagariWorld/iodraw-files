@@ -79,11 +79,6 @@
         <mxCell id="N-3cBxAv2vDXoT0TNU5k-75" value="&lt;font face=&quot;宋体&quot;&gt;结束&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
           <mxGeometry x="292" y="1030" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N-3cBxAv2vDXoT0TNU5k-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N-3cBxAv2vDXoT0TNU5k-144">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="450" y="880" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="N-3cBxAv2vDXoT0TNU5k-144" value="&lt;font face=&quot;宋体&quot;&gt;用户是否选择了图片&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="550" width="144" height="50" as="geometry" />
         </mxCell>
