@@ -4,6 +4,51 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BvsnA41hwLEIqFaxiAvD-31" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;MQTT线程&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BvsnA41hwLEIqFaxiAvD-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BvsnA41hwLEIqFaxiAvD-35" target="BvsnA41hwLEIqFaxiAvD-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BvsnA41hwLEIqFaxiAvD-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BvsnA41hwLEIqFaxiAvD-35" target="BvsnA41hwLEIqFaxiAvD-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BvsnA41hwLEIqFaxiAvD-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BvsnA41hwLEIqFaxiAvD-35" target="BvsnA41hwLEIqFaxiAvD-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BvsnA41hwLEIqFaxiAvD-35" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;主线程&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BvsnA41hwLEIqFaxiAvD-36" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;自动风扇&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;线程&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BvsnA41hwLEIqFaxiAvD-37" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;视频流&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;线程&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BvsnA41hwLEIqFaxiAvD-38" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BvsnA41hwLEIqFaxiAvD-39" target="BvsnA41hwLEIqFaxiAvD-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="790" as="sourcePoint" />
+            <mxPoint x="590" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BvsnA41hwLEIqFaxiAvD-39" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;MQTT服务器&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BvsnA41hwLEIqFaxiAvD-40" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;用户端&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BvsnA41hwLEIqFaxiAvD-41" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BvsnA41hwLEIqFaxiAvD-40" target="BvsnA41hwLEIqFaxiAvD-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="770" as="sourcePoint" />
+            <mxPoint x="580" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BvsnA41hwLEIqFaxiAvD-42" value="UDP协议" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="710" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BvsnA41hwLEIqFaxiAvD-43" value="MQTT协议" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="565" y="710" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
