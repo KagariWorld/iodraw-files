@@ -30,7 +30,7 @@
         <mxCell id="z0JLqTnE3_PegRgGZbdZ-172" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z0JLqTnE3_PegRgGZbdZ-174" target="z0JLqTnE3_PegRgGZbdZ-181">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z0JLqTnE3_PegRgGZbdZ-213" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="z0JLqTnE3_PegRgGZbdZ-172">
+        <mxCell id="z0JLqTnE3_PegRgGZbdZ-213" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 12px;&quot;&gt;否&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="z0JLqTnE3_PegRgGZbdZ-172">
           <mxGeometry x="-0.3644" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
