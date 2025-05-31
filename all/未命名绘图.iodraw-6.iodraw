@@ -44,11 +44,6 @@
         <mxCell id="KKNcuESSx0cQUIdyki5v-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KKNcuESSx0cQUIdyki5v-58" target="KKNcuESSx0cQUIdyki5v-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KKNcuESSx0cQUIdyki5v-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KKNcuESSx0cQUIdyki5v-58" target="KKNcuESSx0cQUIdyki5v-74">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="570" y="420" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="KKNcuESSx0cQUIdyki5v-58" value="&lt;font face=&quot;宋体&quot;&gt;读取当前温度&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="310" width="120" height="40" as="geometry" />
         </mxCell>
@@ -59,6 +54,9 @@
           <mxGeometry x="-0.2202" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="KKNcuESSx0cQUIdyki5v-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KKNcuESSx0cQUIdyki5v-64" target="KKNcuESSx0cQUIdyki5v-74">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KKNcuESSx0cQUIdyki5v-64" value="&lt;font face=&quot;宋体&quot;&gt;是否读取成功&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="345" y="390" width="110" height="50" as="geometry" />
@@ -78,7 +76,7 @@
           <mxGeometry x="339.995" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KKNcuESSx0cQUIdyki5v-74" value="&lt;font face=&quot;宋体&quot;&gt;等待两秒后重试&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="480" width="120" height="40" as="geometry" />
+          <mxGeometry x="530" y="480" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
