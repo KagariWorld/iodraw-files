@@ -31,6 +31,9 @@
         <mxCell id="3WP2pgHgUXU8LOw9YfnK-2" value="&lt;font face=&quot;宋体&quot;&gt;是否收到&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;comfort&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;话题消息&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="329.5" y="90" width="145" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3WP2pgHgUXU8LOw9YfnK-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3WP2pgHgUXU8LOw9YfnK-6" target="3WP2pgHgUXU8LOw9YfnK-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3WP2pgHgUXU8LOw9YfnK-6" value="&lt;font face=&quot;宋体&quot;&gt;文件是否存在&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="341" y="190" width="122" height="40" as="geometry" />
         </mxCell>
@@ -49,7 +52,7 @@
           <mxGeometry x="500" y="150" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3WP2pgHgUXU8LOw9YfnK-17" value="&lt;font face=&quot;Times New Roman&quot;&gt;sleep&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;两秒&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="160" width="80" height="30" as="geometry" />
+          <mxGeometry x="362" y="280" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
