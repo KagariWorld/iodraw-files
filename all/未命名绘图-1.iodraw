@@ -116,8 +116,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3WP2pgHgUXU8LOw9YfnK-35" value="&lt;font face=&quot;宋体&quot;&gt;创建&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;csv&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;文件&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="500" width="80" height="30" as="geometry" />
+        <mxCell id="3WP2pgHgUXU8LOw9YfnK-35" value="&lt;font face=&quot;宋体&quot;&gt;提示需要更多数据&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="480" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
