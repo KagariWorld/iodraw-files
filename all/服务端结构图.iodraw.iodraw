@@ -16,8 +16,8 @@
             <mxPoint x="350" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z0JLqTnE3_PegRgGZbdZ-153" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 12px;&quot;&gt;业务逻辑层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="363.75" y="170" width="50" height="30" as="geometry" />
+        <mxCell id="z0JLqTnE3_PegRgGZbdZ-153" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 12px;&quot;&gt;数据访问层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353.75" y="210" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
