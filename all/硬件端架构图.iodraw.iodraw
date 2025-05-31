@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f4Dp3i6bGI5uWz73sOwu-22" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 12px;&quot;&gt;树莓派&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="450" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="f4Dp3i6bGI5uWz73sOwu-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="f4Dp3i6bGI5uWz73sOwu-27" target="f4Dp3i6bGI5uWz73sOwu-32">
           <mxGeometry relative="1" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f4Dp3i6bGI5uWz73sOwu-31" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 12px;&quot;&gt;执行器层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="520" width="70" height="30" as="geometry" />
+          <mxGeometry x="565" y="535" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f4Dp3i6bGI5uWz73sOwu-32" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;DHT11&lt;/font&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 12px;&quot;&gt;温湿度传感器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="620" width="50" height="110" as="geometry" />
