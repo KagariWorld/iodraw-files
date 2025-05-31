@@ -56,11 +56,14 @@
         <mxCell id="N-3cBxAv2vDXoT0TNU5k-65" value="&lt;font face=&quot;宋体&quot;&gt;发送监测到的信号&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;重置计时器&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="384" y="700" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="N-3cBxAv2vDXoT0TNU5k-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N-3cBxAv2vDXoT0TNU5k-69" target="N-3cBxAv2vDXoT0TNU5k-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="N-3cBxAv2vDXoT0TNU5k-69" value="&lt;font face=&quot;Times New Roman&quot;&gt;MQTT&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;是否收到红外信号&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="372" y="760" width="144" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="N-3cBxAv2vDXoT0TNU5k-73" value="&lt;font face=&quot;宋体&quot;&gt;发送监测到的信号&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;重置计时器&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="394" y="710" width="120" height="40" as="geometry" />
+        <mxCell id="N-3cBxAv2vDXoT0TNU5k-73" value="&lt;font face=&quot;宋体&quot;&gt;检测成功&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="384" y="890" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
