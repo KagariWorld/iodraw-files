@@ -61,6 +61,9 @@
             <mxPoint x="761.8" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="vK-xlTvVrPjy3QTliWF2-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vK-xlTvVrPjy3QTliWF2-15" target="vK-xlTvVrPjy3QTliWF2-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vK-xlTvVrPjy3QTliWF2-15" value="value是否为1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="509.99999999999994" y="360" width="130" height="50" as="geometry" />
         </mxCell>
