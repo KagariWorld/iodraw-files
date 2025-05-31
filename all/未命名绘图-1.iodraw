@@ -20,8 +20,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="N-3cBxAv2vDXoT0TNU5k-46" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N-3cBxAv2vDXoT0TNU5k-3">
-          <mxGeometry x="-0.1507" y="-2" relative="1" as="geometry">
+        <mxCell id="N-3cBxAv2vDXoT0TNU5k-47" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N-3cBxAv2vDXoT0TNU5k-3">
+          <mxGeometry x="-0.8671" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
