@@ -10,7 +10,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ATg70PmlxbhFAZnYXTBp-61" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 12px;&quot;&gt;开始&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
-          <mxGeometry x="295" y="130" width="60" height="30" as="geometry" />
+          <mxGeometry x="295" y="110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ATg70PmlxbhFAZnYXTBp-62" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 12px;&quot;&gt;结束&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
           <mxGeometry x="295" y="780" width="60" height="30" as="geometry" />
@@ -97,7 +97,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ATg70PmlxbhFAZnYXTBp-84" value="&lt;font face=&quot;宋体&quot;&gt;注册成功&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="720" width="70" height="30" as="geometry" />
+          <mxGeometry x="290" y="700" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ATg70PmlxbhFAZnYXTBp-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ATg70PmlxbhFAZnYXTBp-86" target="ATg70PmlxbhFAZnYXTBp-73">
           <mxGeometry relative="1" as="geometry" />
