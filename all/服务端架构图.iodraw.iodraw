@@ -53,7 +53,12 @@
           <mxGeometry x="350" y="480" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z0JLqTnE3_PegRgGZbdZ-223" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="z0JLqTnE3_PegRgGZbdZ-181" target="z0JLqTnE3_PegRgGZbdZ-169">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="425" />
+              <mxPoint x="580" y="150" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="z0JLqTnE3_PegRgGZbdZ-181" value="&lt;font face=&quot;宋体&quot;&gt;提示错误&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="406.25" width="60" height="37.5" as="geometry" />
@@ -75,7 +80,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="z0JLqTnE3_PegRgGZbdZ-185" value="&lt;font face=&quot;宋体&quot;&gt;比对所有信息&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;是否正确&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="317.5" y="560" width="125" height="65" as="geometry" />
+          <mxGeometry x="317.5" y="540" width="125" height="65" as="geometry" />
         </mxCell>
         <mxCell id="z0JLqTnE3_PegRgGZbdZ-222" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="z0JLqTnE3_PegRgGZbdZ-187" target="z0JLqTnE3_PegRgGZbdZ-169">
           <mxGeometry relative="1" as="geometry">
