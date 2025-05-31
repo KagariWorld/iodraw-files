@@ -26,7 +26,11 @@
         </mxCell>
         <mxCell id="N-3cBxAv2vDXoT0TNU5k-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="N-3cBxAv2vDXoT0TNU5k-54">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="450" y="310" as="targetPoint" />
+            <mxPoint x="444" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="360" />
+              <mxPoint x="650" y="310" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="N-3cBxAv2vDXoT0TNU5k-54" value="&lt;font face=&quot;宋体&quot;&gt;是否接收到&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;UDP&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;数据包&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
