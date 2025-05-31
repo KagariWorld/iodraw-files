@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N-3cBxAv2vDXoT0TNU5k-52" value="&lt;font face=&quot;宋体&quot;&gt;点击添加按钮&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="262" y="320" width="78" height="40" as="geometry" />
+          <mxGeometry x="278" y="320" width="88" height="30" as="geometry" />
         </mxCell>
         <mxCell id="N-3cBxAv2vDXoT0TNU5k-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N-3cBxAv2vDXoT0TNU5k-54" target="N-3cBxAv2vDXoT0TNU5k-58">
           <mxGeometry relative="1" as="geometry" />
@@ -25,13 +25,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="N-3cBxAv2vDXoT0TNU5k-54" value="&lt;font face=&quot;宋体&quot;&gt;是否授予权限&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="410" width="144" height="60" as="geometry" />
+          <mxGeometry x="250" y="370" width="144" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N-3cBxAv2vDXoT0TNU5k-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N-3cBxAv2vDXoT0TNU5k-58" target="N-3cBxAv2vDXoT0TNU5k-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N-3cBxAv2vDXoT0TNU5k-58" value="&lt;font face=&quot;宋体&quot;&gt;解码为&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;OpenCV Mat&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;图像预处理&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;灰度转换&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;直方图均衡化&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="262" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="262" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N-3cBxAv2vDXoT0TNU5k-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N-3cBxAv2vDXoT0TNU5k-60" target="N-3cBxAv2vDXoT0TNU5k-62">
           <mxGeometry relative="1" as="geometry" />
