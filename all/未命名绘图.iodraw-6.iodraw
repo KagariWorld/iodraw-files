@@ -96,7 +96,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KKNcuESSx0cQUIdyki5v-74" value="&lt;font face=&quot;宋体&quot;&gt;等待1-2秒后重试&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;打印错误&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="570" width="100" height="40" as="geometry" />
+          <mxGeometry x="460" y="580" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KKNcuESSx0cQUIdyki5v-78" value="&lt;font face=&quot;Times New Roman&quot;&gt;GPIO&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;输出低电平&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="496.25" y="750" width="120" height="60" as="geometry" />
