@@ -47,7 +47,7 @@
         <mxCell id="z0JLqTnE3_PegRgGZbdZ-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z0JLqTnE3_PegRgGZbdZ-132" target="z0JLqTnE3_PegRgGZbdZ-147">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z0JLqTnE3_PegRgGZbdZ-132" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 12px;&quot;&gt;server&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font face=&quot;JWy-hfQmW1HfpcRNjVEV&quot;&gt;模块&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="z0JLqTnE3_PegRgGZbdZ-132" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;server&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;宋体&quot;&gt;模块&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="160" width="60" height="150" as="geometry" />
         </mxCell>
         <mxCell id="z0JLqTnE3_PegRgGZbdZ-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z0JLqTnE3_PegRgGZbdZ-136" target="z0JLqTnE3_PegRgGZbdZ-137">
