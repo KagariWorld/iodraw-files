@@ -97,7 +97,7 @@
         <mxCell id="vK-xlTvVrPjy3QTliWF2-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vK-xlTvVrPjy3QTliWF2-18" target="vK-xlTvVrPjy3QTliWF2-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vK-xlTvVrPjy3QTliWF2-18" value="GPIO高电平" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vK-xlTvVrPjy3QTliWF2-18" value="GPIO输出高电平" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="106" y="470" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vK-xlTvVrPjy3QTliWF2-21" value="event.set" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
