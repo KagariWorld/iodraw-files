@@ -88,10 +88,10 @@
         </mxCell>
         <mxCell id="KKNcuESSx0cQUIdyki5v-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KKNcuESSx0cQUIdyki5v-74">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="500" as="targetPoint" />
+            <mxPoint x="410" y="500" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="593" y="590" />
-              <mxPoint x="593" y="500" />
+              <mxPoint x="580" y="590" />
+              <mxPoint x="580" y="500" />
             </Array>
           </mxGeometry>
         </mxCell>
