@@ -44,13 +44,9 @@
         <mxCell id="KKNcuESSx0cQUIdyki5v-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KKNcuESSx0cQUIdyki5v-58" target="KKNcuESSx0cQUIdyki5v-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KKNcuESSx0cQUIdyki5v-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KKNcuESSx0cQUIdyki5v-58">
+        <mxCell id="KKNcuESSx0cQUIdyki5v-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KKNcuESSx0cQUIdyki5v-58">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="670" y="520" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="671" y="330" />
-              <mxPoint x="671" y="520" />
-            </Array>
+            <mxPoint x="570" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KKNcuESSx0cQUIdyki5v-58" value="&lt;font face=&quot;宋体&quot;&gt;读取当前温度&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
