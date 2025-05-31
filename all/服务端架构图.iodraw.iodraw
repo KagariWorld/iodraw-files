@@ -64,8 +64,8 @@
         <mxCell id="z0JLqTnE3_PegRgGZbdZ-185" value="&lt;font face=&quot;宋体&quot;&gt;比对所有信息&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;是否正确&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="317.5" y="560" width="125" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="z0JLqTnE3_PegRgGZbdZ-187" value="注册成功" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="680" width="120" height="60" as="geometry" />
+        <mxCell id="z0JLqTnE3_PegRgGZbdZ-187" value="&lt;font face=&quot;宋体&quot;&gt;等待&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;10&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;秒&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z0JLqTnE3_PegRgGZbdZ-188" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="630" y="850" width="30" height="30" as="geometry" />
