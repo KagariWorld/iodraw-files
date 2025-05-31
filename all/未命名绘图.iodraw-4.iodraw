@@ -67,7 +67,7 @@
         <mxCell id="jffMGip-2nsmGj-4qzeh-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jffMGip-2nsmGj-4qzeh-21" target="jffMGip-2nsmGj-4qzeh-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jffMGip-2nsmGj-4qzeh-21" value="&lt;font face=&quot;宋体&quot;&gt;是否到达最大&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;_qG8m33NyhFqpyZ1ry2T&quot;&gt;调整次数3次&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+        <mxCell id="jffMGip-2nsmGj-4qzeh-21" value="&lt;font face=&quot;宋体&quot;&gt;是否到达最大&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;调整次数&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;3&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;次&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="590" y="580" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jffMGip-2nsmGj-4qzeh-23" value="丢弃帧" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
