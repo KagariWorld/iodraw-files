@@ -60,7 +60,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z0JLqTnE3_PegRgGZbdZ-136" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;pojo&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 12px;&quot;&gt;模块&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="140" width="30" height="50" as="geometry" />
+          <mxGeometry x="352.5" y="150" width="55" height="70" as="geometry" />
         </mxCell>
         <mxCell id="z0JLqTnE3_PegRgGZbdZ-137" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;DTO&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="400" width="40" height="150" as="geometry" />
