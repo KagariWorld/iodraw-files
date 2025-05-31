@@ -10,7 +10,7 @@
         <mxCell id="KKNcuESSx0cQUIdyki5v-53" value="&lt;font face=&quot;宋体&quot;&gt;开始&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
           <mxGeometry x="360" y="30" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KKNcuESSx0cQUIdyki5v-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KKNcuESSx0cQUIdyki5v-54" value="&lt;font face=&quot;Times New Roman&quot;&gt;event.wait()&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;阻塞线程&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
