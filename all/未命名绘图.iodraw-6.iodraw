@@ -50,11 +50,16 @@
         <mxCell id="KKNcuESSx0cQUIdyki5v-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KKNcuESSx0cQUIdyki5v-64" target="KKNcuESSx0cQUIdyki5v-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="KKNcuESSx0cQUIdyki5v-68" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KKNcuESSx0cQUIdyki5v-67">
+          <mxGeometry x="-0.2202" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="KKNcuESSx0cQUIdyki5v-64" value="&lt;font face=&quot;宋体&quot;&gt;是否读取成功&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="345" y="390" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KKNcuESSx0cQUIdyki5v-66" value="&lt;font face=&quot;宋体&quot;&gt;是否满足当前&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;temp&amp;gt;next_temp+0.5&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;或&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;hum&amp;gt;next_hum+2&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="313.75" y="490" width="172.5" height="80" as="geometry" />
+          <mxGeometry x="316.88" y="490" width="166.25" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
