@@ -8,13 +8,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N-3cBxAv2vDXoT0TNU5k-51" value="&lt;font face=&quot;宋体&quot;&gt;开始&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
-          <mxGeometry x="402" y="185" width="60" height="30" as="geometry" />
+          <mxGeometry x="414" y="180" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="N-3cBxAv2vDXoT0TNU5k-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N-3cBxAv2vDXoT0TNU5k-52" target="N-3cBxAv2vDXoT0TNU5k-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N-3cBxAv2vDXoT0TNU5k-52" value="&lt;font face=&quot;宋体&quot;&gt;加载&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;OpenCV&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;模型&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;初始化&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;UDP&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;监听端口&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;初始化&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;MQTT&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;连接&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="372" y="245" width="120" height="60" as="geometry" />
+        <mxCell id="N-3cBxAv2vDXoT0TNU5k-52" value="&lt;font face=&quot;宋体&quot;&gt;点击添加按钮&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="384" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N-3cBxAv2vDXoT0TNU5k-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N-3cBxAv2vDXoT0TNU5k-54" target="N-3cBxAv2vDXoT0TNU5k-58">
           <mxGeometry relative="1" as="geometry" />
@@ -25,19 +25,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="N-3cBxAv2vDXoT0TNU5k-54" value="&lt;font face=&quot;宋体&quot;&gt;是否接收到&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;UDP&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;数据包&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="335" width="144" height="60" as="geometry" />
+          <mxGeometry x="372" y="330" width="144" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N-3cBxAv2vDXoT0TNU5k-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N-3cBxAv2vDXoT0TNU5k-58" target="N-3cBxAv2vDXoT0TNU5k-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N-3cBxAv2vDXoT0TNU5k-58" value="&lt;font face=&quot;宋体&quot;&gt;解码为&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;OpenCV Mat&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;图像预处理&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;灰度转换&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;直方图均衡化&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="372" y="445" width="120" height="60" as="geometry" />
+          <mxGeometry x="384" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N-3cBxAv2vDXoT0TNU5k-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N-3cBxAv2vDXoT0TNU5k-60" target="N-3cBxAv2vDXoT0TNU5k-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N-3cBxAv2vDXoT0TNU5k-60" value="&lt;font face=&quot;宋体&quot;&gt;人脸检测&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="372" y="525" width="120" height="30" as="geometry" />
+          <mxGeometry x="384" y="520" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="N-3cBxAv2vDXoT0TNU5k-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N-3cBxAv2vDXoT0TNU5k-62" target="N-3cBxAv2vDXoT0TNU5k-65">
           <mxGeometry relative="1" as="geometry" />
@@ -48,13 +48,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="N-3cBxAv2vDXoT0TNU5k-62" value="&lt;font face=&quot;宋体&quot;&gt;是否检测到人脸且&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;检查时间是否&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;gt;3&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;秒&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="585" width="144" height="80" as="geometry" />
+          <mxGeometry x="372" y="580" width="144" height="80" as="geometry" />
         </mxCell>
         <mxCell id="N-3cBxAv2vDXoT0TNU5k-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N-3cBxAv2vDXoT0TNU5k-65" target="N-3cBxAv2vDXoT0TNU5k-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N-3cBxAv2vDXoT0TNU5k-65" value="&lt;font face=&quot;宋体&quot;&gt;发送检测到的信号&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;重置计时器&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="372" y="705" width="120" height="40" as="geometry" />
+          <mxGeometry x="384" y="700" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="N-3cBxAv2vDXoT0TNU5k-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N-3cBxAv2vDXoT0TNU5k-69" target="N-3cBxAv2vDXoT0TNU5k-73">
           <mxGeometry relative="1" as="geometry" />
@@ -65,16 +65,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="N-3cBxAv2vDXoT0TNU5k-69" value="&lt;font face=&quot;Times New Roman&quot;&gt;MQTT&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;是否收到红外信号&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="765" width="144" height="80" as="geometry" />
+          <mxGeometry x="372" y="760" width="144" height="80" as="geometry" />
         </mxCell>
         <mxCell id="N-3cBxAv2vDXoT0TNU5k-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N-3cBxAv2vDXoT0TNU5k-73" target="N-3cBxAv2vDXoT0TNU5k-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N-3cBxAv2vDXoT0TNU5k-73" value="&lt;font face=&quot;宋体&quot;&gt;检测成功&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;显示在Label中&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="372" y="895" width="120" height="40" as="geometry" />
+          <mxGeometry x="384" y="890" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="N-3cBxAv2vDXoT0TNU5k-75" value="&lt;font face=&quot;宋体&quot;&gt;结束&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
-          <mxGeometry x="402" y="955" width="60" height="30" as="geometry" />
+          <mxGeometry x="414" y="950" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="N-3cBxAv2vDXoT0TNU5k-88" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="N-3cBxAv2vDXoT0TNU5k-54">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
