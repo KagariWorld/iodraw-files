@@ -25,6 +25,9 @@
         <mxCell id="7dMo_HaQDHcdcYuC07Z--5" value="&lt;font face=&quot;Times New Roman&quot;&gt;MQTT&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;线程&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="120" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="7dMo_HaQDHcdcYuC07Z--9" value="&lt;font face=&quot;宋体&quot;&gt;用户端&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="210" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
