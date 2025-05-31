@@ -8,7 +8,16 @@
           <mxGeometry x="353.75" y="100" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z0JLqTnE3_PegRgGZbdZ-151" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 12px;&quot;&gt;业务逻辑层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="353.75" y="150" width="50" height="30" as="geometry" />
+          <mxGeometry x="353.75" y="160" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z0JLqTnE3_PegRgGZbdZ-152" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="z0JLqTnE3_PegRgGZbdZ-151" target="z0JLqTnE3_PegRgGZbdZ-122">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="310" as="sourcePoint" />
+            <mxPoint x="350" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z0JLqTnE3_PegRgGZbdZ-153" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 12px;&quot;&gt;业务逻辑层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="363.75" y="170" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
