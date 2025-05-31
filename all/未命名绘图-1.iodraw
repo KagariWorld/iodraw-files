@@ -38,13 +38,13 @@
         <mxCell id="N-3cBxAv2vDXoT0TNU5k-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N-3cBxAv2vDXoT0TNU5k-39" target="N-3cBxAv2vDXoT0TNU5k-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N-3cBxAv2vDXoT0TNU5k-39" value="点击登录" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="N-3cBxAv2vDXoT0TNU5k-39" value="&lt;font face=&quot;宋体&quot;&gt;点击登录&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="405" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N-3cBxAv2vDXoT0TNU5k-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N-3cBxAv2vDXoT0TNU5k-41" target="N-3cBxAv2vDXoT0TNU5k-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N-3cBxAv2vDXoT0TNU5k-41" value="判断输入信息&lt;span style=&quot;background-color: initial;&quot;&gt;是否正确&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="N-3cBxAv2vDXoT0TNU5k-41" value="&lt;font face=&quot;宋体&quot;&gt;判断输入信息&lt;span style=&quot;background-color: initial;&quot;&gt;是否正确&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="570" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="N-3cBxAv2vDXoT0TNU5k-42" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
