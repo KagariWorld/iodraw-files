@@ -74,6 +74,11 @@
             <mxPoint x="1" y="6" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="KKNcuESSx0cQUIdyki5v-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KKNcuESSx0cQUIdyki5v-66" target="KKNcuESSx0cQUIdyki5v-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="KKNcuESSx0cQUIdyki5v-66" value="&lt;font face=&quot;宋体&quot;&gt;是否满足当前&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;temp&amp;gt;next_temp+0.5&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;或&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;hum&amp;gt;next_hum+2&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="316.88" y="490" width="166.25" height="80" as="geometry" />
         </mxCell>
@@ -82,6 +87,9 @@
         </mxCell>
         <mxCell id="KKNcuESSx0cQUIdyki5v-74" value="&lt;font face=&quot;宋体&quot;&gt;等待两秒&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="545" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KKNcuESSx0cQUIdyki5v-78" value="&lt;font face=&quot;Times New Roman&quot;&gt;GPIO&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;输出低电平&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="483.13" y="620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
