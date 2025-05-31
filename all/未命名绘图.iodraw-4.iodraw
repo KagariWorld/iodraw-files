@@ -71,11 +71,11 @@
         <mxCell id="jffMGip-2nsmGj-4qzeh-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jffMGip-2nsmGj-4qzeh-27" target="jffMGip-2nsmGj-4qzeh-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jffMGip-2nsmGj-4qzeh-27" value="&lt;font face=&quot;宋体&quot;&gt;发送UDP数据包&lt;/font&gt;" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="395" y="510" width="120" height="60" as="geometry" />
+        <mxCell id="jffMGip-2nsmGj-4qzeh-27" value="&lt;font face=&quot;宋体&quot;&gt;发送&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;UDP&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;数据包&lt;/font&gt;" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="510" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jffMGip-2nsmGj-4qzeh-30" value="显示视频画面" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="395" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="395" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jffMGip-2nsmGj-4qzeh-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jffMGip-2nsmGj-4qzeh-34" target="jffMGip-2nsmGj-4qzeh-35">
           <mxGeometry relative="1" as="geometry" />
