@@ -38,17 +38,19 @@
         <mxCell id="z0JLqTnE3_PegRgGZbdZ-173" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z0JLqTnE3_PegRgGZbdZ-174" target="z0JLqTnE3_PegRgGZbdZ-201">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="z0JLqTnE3_PegRgGZbdZ-206" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="z0JLqTnE3_PegRgGZbdZ-173">
+          <mxGeometry x="-0.1221" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="z0JLqTnE3_PegRgGZbdZ-174" value="&lt;font face=&quot;宋体&quot;&gt;判断输入信息格式及&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;内容&lt;span style=&quot;background-color: initial;&quot;&gt;是否正确&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="295" y="270" width="170" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="z0JLqTnE3_PegRgGZbdZ-175" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="630" y="500" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z0JLqTnE3_PegRgGZbdZ-178" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z0JLqTnE3_PegRgGZbdZ-179" target="z0JLqTnE3_PegRgGZbdZ-185">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z0JLqTnE3_PegRgGZbdZ-179" value="&lt;font face=&quot;宋体&quot;&gt;点击注册按钮&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="425" width="60" height="30" as="geometry" />
+          <mxGeometry x="350" y="460" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z0JLqTnE3_PegRgGZbdZ-181" value="提示错误信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="400" width="120" height="60" as="geometry" />
@@ -86,7 +88,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z0JLqTnE3_PegRgGZbdZ-201" value="&lt;font face=&quot;宋体&quot;&gt;输入从服务端&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;获取到的验证码&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="318.75" y="360" width="122.5" height="40" as="geometry" />
+          <mxGeometry x="318.75" y="390" width="122.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
