@@ -34,6 +34,12 @@
         <mxCell id="ATg70PmlxbhFAZnYXTBp-10" value="&lt;font face=&quot;宋体&quot;&gt;评论模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="280" width="30" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="ATg70PmlxbhFAZnYXTBp-11" value="&lt;font face=&quot;宋体&quot;&gt;监控模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="390" width="30" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ATg70PmlxbhFAZnYXTBp-12" value="&lt;font face=&quot;宋体&quot;&gt;监控模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="400" width="30" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
