@@ -72,7 +72,7 @@
         <mxCell id="N-3cBxAv2vDXoT0TNU5k-144" value="&lt;font face=&quot;宋体&quot;&gt;用户是否选择了图片&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="550" width="144" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="N-3cBxAv2vDXoT0TNU5k-146" value="&lt;font face=&quot;宋体&quot;&gt;获取&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;URI&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;、输入流，创建临时文件&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="N-3cBxAv2vDXoT0TNU5k-146" value="&lt;font face=&quot;宋体&quot;&gt;读取数据写入文件&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="262" y="710" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
