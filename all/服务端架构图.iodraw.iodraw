@@ -15,14 +15,6 @@
         <mxCell id="z0JLqTnE3_PegRgGZbdZ-160" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 12px;&quot;&gt;结束&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
           <mxGeometry x="80" y="300" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z0JLqTnE3_PegRgGZbdZ-168" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z0JLqTnE3_PegRgGZbdZ-169" target="z0JLqTnE3_PegRgGZbdZ-171">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="380" y="380" />
-              <mxPoint x="380" y="380" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="z0JLqTnE3_PegRgGZbdZ-169" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 12px;&quot;&gt;输入用户名、密码&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;、&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;确认密码、邮箱&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="315" y="150" width="130" height="40" as="geometry" />
         </mxCell>
