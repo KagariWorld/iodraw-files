@@ -4,8 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="z0JLqTnE3_PegRgGZbdZ-157" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z0JLqTnE3_PegRgGZbdZ-158" target="z0JLqTnE3_PegRgGZbdZ-163">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="z0JLqTnE3_PegRgGZbdZ-157" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z0JLqTnE3_PegRgGZbdZ-158">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="150" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="z0JLqTnE3_PegRgGZbdZ-158" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;start&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
           <mxGeometry x="330" y="70" width="100" height="40" as="geometry" />
@@ -13,16 +15,10 @@
         <mxCell id="z0JLqTnE3_PegRgGZbdZ-160" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;end&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
           <mxGeometry x="125" y="530" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="z0JLqTnE3_PegRgGZbdZ-161" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z0JLqTnE3_PegRgGZbdZ-163" target="z0JLqTnE3_PegRgGZbdZ-165">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="z0JLqTnE3_PegRgGZbdZ-162" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z0JLqTnE3_PegRgGZbdZ-163">
+        <mxCell id="z0JLqTnE3_PegRgGZbdZ-161" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="z0JLqTnE3_PegRgGZbdZ-165">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="235" y="180" as="targetPoint" />
+            <mxPoint x="465" y="180" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="z0JLqTnE3_PegRgGZbdZ-163" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;是否注册过账号&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="295" y="150" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z0JLqTnE3_PegRgGZbdZ-164" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z0JLqTnE3_PegRgGZbdZ-165" target="z0JLqTnE3_PegRgGZbdZ-169">
           <mxGeometry relative="1" as="geometry" />
@@ -81,8 +77,10 @@
         <mxCell id="z0JLqTnE3_PegRgGZbdZ-185" value="比对所有信息是否正确" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="545" y="770" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="z0JLqTnE3_PegRgGZbdZ-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="z0JLqTnE3_PegRgGZbdZ-187" target="z0JLqTnE3_PegRgGZbdZ-163">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="z0JLqTnE3_PegRgGZbdZ-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="z0JLqTnE3_PegRgGZbdZ-187">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="210" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="z0JLqTnE3_PegRgGZbdZ-187" value="注册成功" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="900" width="120" height="60" as="geometry" />
