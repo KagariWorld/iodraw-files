@@ -7,7 +7,7 @@
         <mxCell id="3WP2pgHgUXU8LOw9YfnK-1" value="&lt;font face=&quot;宋体&quot;&gt;开始&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
           <mxGeometry x="374" y="40" width="56" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3WP2pgHgUXU8LOw9YfnK-2" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3WP2pgHgUXU8LOw9YfnK-2" value="是否收到comfort" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="348" y="90" width="108" height="40" as="geometry" />
         </mxCell>
       </root>
