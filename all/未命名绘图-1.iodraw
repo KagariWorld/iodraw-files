@@ -85,16 +85,19 @@
         <mxCell id="3WP2pgHgUXU8LOw9YfnK-26" value="&lt;font face=&quot;宋体&quot;&gt;数据是否足够&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="341" y="440" width="122" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3WP2pgHgUXU8LOw9YfnK-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3WP2pgHgUXU8LOw9YfnK-26">
+        <mxCell id="3WP2pgHgUXU8LOw9YfnK-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3WP2pgHgUXU8LOw9YfnK-26" target="3WP2pgHgUXU8LOw9YfnK-30">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="412" y="240" as="sourcePoint" />
-            <mxPoint x="412" y="290" as="targetPoint" />
+            <mxPoint x="400" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3WP2pgHgUXU8LOw9YfnK-29" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 12px;&quot;&gt;是&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3WP2pgHgUXU8LOw9YfnK-28">
           <mxGeometry x="-0.128" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3WP2pgHgUXU8LOw9YfnK-30" value="&lt;font face=&quot;宋体&quot;&gt;等待传感器数据&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="356" y="550" width="92" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
