@@ -86,6 +86,11 @@
         <mxCell id="KKNcuESSx0cQUIdyki5v-69" value="&lt;font face=&quot;Times New Roman&quot;&gt;GPIO&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;输出高电平&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="353.115" y="750" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="KKNcuESSx0cQUIdyki5v-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KKNcuESSx0cQUIdyki5v-74">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="KKNcuESSx0cQUIdyki5v-74" value="&lt;font face=&quot;宋体&quot;&gt;等待1-2秒后重试&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;打印错误&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="473.12" y="570" width="100" height="40" as="geometry" />
         </mxCell>
