@@ -32,7 +32,7 @@
         <mxCell id="N-3cBxAv2vDXoT0TNU5k-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N-3cBxAv2vDXoT0TNU5k-37" target="N-3cBxAv2vDXoT0TNU5k-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N-3cBxAv2vDXoT0TNU5k-37" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;输入用户名或邮箱&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;以及密码&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="N-3cBxAv2vDXoT0TNU5k-37" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 12px;&quot;&gt;输入用户名或邮箱&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 12px;&quot;&gt;以及密码&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="390" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N-3cBxAv2vDXoT0TNU5k-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N-3cBxAv2vDXoT0TNU5k-39" target="N-3cBxAv2vDXoT0TNU5k-41">
