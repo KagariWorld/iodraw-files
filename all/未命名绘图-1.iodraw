@@ -20,6 +20,14 @@
             <mxPoint x="-3" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="3WP2pgHgUXU8LOw9YfnK-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3WP2pgHgUXU8LOw9YfnK-2" target="3WP2pgHgUXU8LOw9YfnK-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3WP2pgHgUXU8LOw9YfnK-12" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3WP2pgHgUXU8LOw9YfnK-11">
+          <mxGeometry x="-0.2272" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="3WP2pgHgUXU8LOw9YfnK-2" value="&lt;font face=&quot;宋体&quot;&gt;是否收到&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;comfort&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;话题消息&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="329.5" y="90" width="145" height="60" as="geometry" />
         </mxCell>
