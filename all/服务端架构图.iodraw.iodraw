@@ -13,7 +13,7 @@
           <mxGeometry x="350" y="80" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z0JLqTnE3_PegRgGZbdZ-160" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 12px;&quot;&gt;结束&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
-          <mxGeometry x="350" y="730" width="60" height="30" as="geometry" />
+          <mxGeometry x="350" y="710" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z0JLqTnE3_PegRgGZbdZ-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z0JLqTnE3_PegRgGZbdZ-169" target="z0JLqTnE3_PegRgGZbdZ-171">
           <mxGeometry relative="1" as="geometry" />
@@ -97,7 +97,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z0JLqTnE3_PegRgGZbdZ-190" value="&lt;font face=&quot;宋体&quot;&gt;注册成功&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="345" y="670" width="70" height="30" as="geometry" />
+          <mxGeometry x="345" y="650" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z0JLqTnE3_PegRgGZbdZ-200" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z0JLqTnE3_PegRgGZbdZ-201" target="z0JLqTnE3_PegRgGZbdZ-179">
           <mxGeometry relative="1" as="geometry" />
