@@ -76,10 +76,13 @@
         <mxCell id="3WP2pgHgUXU8LOw9YfnK-20" value="&lt;font face=&quot;宋体&quot;&gt;创建&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;csv&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;文件&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="240" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="3WP2pgHgUXU8LOw9YfnK-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3WP2pgHgUXU8LOw9YfnK-24" target="3WP2pgHgUXU8LOw9YfnK-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3WP2pgHgUXU8LOw9YfnK-24" value="&lt;font face=&quot;宋体&quot;&gt;读取数据&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;保存温湿度到&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;csv&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;加载最近&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;3&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;条历史数据&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="342" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3WP2pgHgUXU8LOw9YfnK-26" value="&lt;font face=&quot;宋体&quot;&gt;文件是否存在&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3WP2pgHgUXU8LOw9YfnK-26" value="&lt;font face=&quot;宋体&quot;&gt;数据是否足够&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="341" y="440" width="122" height="40" as="geometry" />
         </mxCell>
       </root>
