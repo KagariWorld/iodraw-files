@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rPn5AujdeKN2KojU03Bd-2" value="&lt;font face=&quot;宋体&quot;&gt;开始&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
-          <mxGeometry x="292" y="260" width="60" height="30" as="geometry" />
+          <mxGeometry x="292" y="270" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rPn5AujdeKN2KojU03Bd-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rPn5AujdeKN2KojU03Bd-4" target="rPn5AujdeKN2KojU03Bd-7">
           <mxGeometry relative="1" as="geometry" />
@@ -25,7 +25,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rPn5AujdeKN2KojU03Bd-7" value="&lt;font face=&quot;宋体&quot;&gt;是否授予权限&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="370" width="144" height="60" as="geometry" />
+          <mxGeometry x="250" y="370" width="144" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rPn5AujdeKN2KojU03Bd-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rPn5AujdeKN2KojU03Bd-9" target="rPn5AujdeKN2KojU03Bd-24">
           <mxGeometry relative="1" as="geometry" />
