@@ -71,10 +71,7 @@
           <mxGeometry x="590" y="550" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jffMGip-2nsmGj-4qzeh-23" value="丢弃帧" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="595" y="700" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jffMGip-2nsmGj-4qzeh-24" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="655" y="670" width="30" height="30" as="geometry" />
+          <mxGeometry x="595" y="690" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jffMGip-2nsmGj-4qzeh-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jffMGip-2nsmGj-4qzeh-27" target="jffMGip-2nsmGj-4qzeh-30">
           <mxGeometry relative="1" as="geometry" />
