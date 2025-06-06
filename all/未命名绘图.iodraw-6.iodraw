@@ -22,8 +22,19 @@
         <mxCell id="vIepZ54VnvVXnr3aClvg-4" value="点击登录" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vIepZ54VnvVXnr3aClvg-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vIepZ54VnvVXnr3aClvg-6" target="vIepZ54VnvVXnr3aClvg-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vIepZ54VnvVXnr3aClvg-10" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vIepZ54VnvVXnr3aClvg-9">
+          <mxGeometry y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="vIepZ54VnvVXnr3aClvg-6" value="判断输入信息是否正确" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="250" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vIepZ54VnvVXnr3aClvg-8" value="&lt;font face=&quot;宋体&quot;&gt;结束&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="340" y="380" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
