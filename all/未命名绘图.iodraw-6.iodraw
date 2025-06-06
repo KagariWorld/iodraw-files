@@ -16,8 +16,11 @@
         <mxCell id="vIepZ54VnvVXnr3aClvg-2" value="输入用户名或邮箱&lt;div&gt;以及密码&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="315" y="70" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vIepZ54VnvVXnr3aClvg-4" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vIepZ54VnvVXnr3aClvg-4" value="点击登录" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vIepZ54VnvVXnr3aClvg-6" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="250" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
