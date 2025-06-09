@@ -83,7 +83,7 @@
           <mxGeometry x="282.5" y="980" width="125" height="65" as="geometry" />
         </mxCell>
         <mxCell id="AoUnwIxOmfh5NwybklBR-23" value="&lt;font face=&quot;宋体&quot;&gt;提示错误等待&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;10&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;秒&lt;/font&gt;" style="whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="450" y="900" width="60" height="35" as="geometry" />
+          <mxGeometry x="510" y="900" width="60" height="35" as="geometry" />
         </mxCell>
         <mxCell id="AoUnwIxOmfh5NwybklBR-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AoUnwIxOmfh5NwybklBR-25" target="AoUnwIxOmfh5NwybklBR-3">
           <mxGeometry relative="1" as="geometry" />
