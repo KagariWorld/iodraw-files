@@ -52,16 +52,8 @@
         <mxCell id="yiCzHFDXd1vD_iQT7vWK-14" value="&lt;font face=&quot;宋体&quot;&gt;点击注册按钮&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="326" y="460" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yiCzHFDXd1vD_iQT7vWK-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yiCzHFDXd1vD_iQT7vWK-16" target="yiCzHFDXd1vD_iQT7vWK-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="556" y="405" />
-              <mxPoint x="556" y="130" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="yiCzHFDXd1vD_iQT7vWK-16" value="&lt;font face=&quot;宋体&quot;&gt;提示错误&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="476" y="386.25" width="60" height="37.5" as="geometry" />
+          <mxGeometry x="476" y="182.5" width="60" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="yiCzHFDXd1vD_iQT7vWK-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yiCzHFDXd1vD_iQT7vWK-21" target="yiCzHFDXd1vD_iQT7vWK-25">
           <mxGeometry relative="1" as="geometry" />
