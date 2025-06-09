@@ -25,6 +25,16 @@
         <mxCell id="2PTgmY63OwehpD24Kthk-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2PTgmY63OwehpD24Kthk-4" target="2PTgmY63OwehpD24Kthk-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="2PTgmY63OwehpD24Kthk-10" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2PTgmY63OwehpD24Kthk-9">
+          <mxGeometry x="-0.032" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2PTgmY63OwehpD24Kthk-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2PTgmY63OwehpD24Kthk-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="2PTgmY63OwehpD24Kthk-4" value="判断输入信息是否正确" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="334" y="310" width="160" height="80" as="geometry" />
         </mxCell>
