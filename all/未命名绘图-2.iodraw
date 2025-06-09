@@ -22,11 +22,14 @@
         <mxCell id="2PTgmY63OwehpD24Kthk-3" value="点击登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="210" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="2PTgmY63OwehpD24Kthk-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2PTgmY63OwehpD24Kthk-4" target="2PTgmY63OwehpD24Kthk-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2PTgmY63OwehpD24Kthk-4" value="判断输入信息是否正确" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="334" y="310" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2PTgmY63OwehpD24Kthk-8" value="end" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
-          <mxGeometry x="374" y="450" width="80" height="30" as="geometry" />
+        <mxCell id="2PTgmY63OwehpD24Kthk-8" value="结束" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="374" y="440" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
