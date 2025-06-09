@@ -51,7 +51,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qVhPWncU386vrRrhWMRi-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qVhPWncU386vrRrhWMRi-16">
+        <mxCell id="qVhPWncU386vrRrhWMRi-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qVhPWncU386vrRrhWMRi-16" target="qVhPWncU386vrRrhWMRi-25">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="469.01000000000005" y="710" as="targetPoint" />
           </mxGeometry>
@@ -91,17 +91,13 @@
         <mxCell id="qVhPWncU386vrRrhWMRi-23" value="&lt;font face=&quot;Times New Roman&quot;&gt;GPIO&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;输出高电平&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="302.12000000000006" y="930" width="116.89" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qVhPWncU386vrRrhWMRi-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="qVhPWncU386vrRrhWMRi-25">
+        <mxCell id="qVhPWncU386vrRrhWMRi-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="qVhPWncU386vrRrhWMRi-25">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="358.44000000000005" y="630" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="528.44" y="730" />
-              <mxPoint x="528.44" y="630" />
-            </Array>
+            <mxPoint x="360" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qVhPWncU386vrRrhWMRi-25" value="&lt;font face=&quot;宋体&quot;&gt;等待&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;1-2&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;秒后重试&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;打印错误&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="418.45000000000005" y="620" width="100" height="40" as="geometry" />
+          <mxGeometry x="430.00000000000006" y="660" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qVhPWncU386vrRrhWMRi-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qVhPWncU386vrRrhWMRi-27" target="qVhPWncU386vrRrhWMRi-36">
           <mxGeometry relative="1" as="geometry" />
