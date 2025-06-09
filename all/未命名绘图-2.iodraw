@@ -4,6 +4,133 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qVhPWncU386vrRrhWMRi-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qVhPWncU386vrRrhWMRi-40" target="qVhPWncU386vrRrhWMRi-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qVhPWncU386vrRrhWMRi-40" value="&lt;font face=&quot;宋体&quot;&gt;开始&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="295" y="140" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qVhPWncU386vrRrhWMRi-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qVhPWncU386vrRrhWMRi-42" target="qVhPWncU386vrRrhWMRi-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qVhPWncU386vrRrhWMRi-42" value="&lt;font face=&quot;宋体&quot;&gt;初始化&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;IMAGE_FUNC&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;类&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;创建套接字连接用户端&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;配置&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Picamera2&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;参数&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;设置分辨率&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="190" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qVhPWncU386vrRrhWMRi-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qVhPWncU386vrRrhWMRi-44" target="qVhPWncU386vrRrhWMRi-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qVhPWncU386vrRrhWMRi-44" value="&lt;font face=&quot;宋体&quot;&gt;启动摄像头&lt;/font&gt;" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="275" y="280" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qVhPWncU386vrRrhWMRi-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qVhPWncU386vrRrhWMRi-49" target="qVhPWncU386vrRrhWMRi-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qVhPWncU386vrRrhWMRi-46" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 12px;&quot;&gt;否&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qVhPWncU386vrRrhWMRi-45">
+          <mxGeometry x="0.612" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qVhPWncU386vrRrhWMRi-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qVhPWncU386vrRrhWMRi-49" target="qVhPWncU386vrRrhWMRi-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qVhPWncU386vrRrhWMRi-48" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;宋体&quot;&gt;是&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qVhPWncU386vrRrhWMRi-47">
+          <mxGeometry x="-0.0831" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qVhPWncU386vrRrhWMRi-49" value="&lt;font face=&quot;宋体&quot;&gt;是否按下&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;q&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="340" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qVhPWncU386vrRrhWMRi-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qVhPWncU386vrRrhWMRi-51" target="qVhPWncU386vrRrhWMRi-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qVhPWncU386vrRrhWMRi-51" value="&lt;font face=&quot;宋体&quot;&gt;捕获视频帧&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;初始质量压缩&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="410" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qVhPWncU386vrRrhWMRi-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qVhPWncU386vrRrhWMRi-56" target="qVhPWncU386vrRrhWMRi-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qVhPWncU386vrRrhWMRi-53" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;宋体&quot;&gt;是&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qVhPWncU386vrRrhWMRi-52">
+          <mxGeometry x="-0.19" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qVhPWncU386vrRrhWMRi-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="qVhPWncU386vrRrhWMRi-56" target="qVhPWncU386vrRrhWMRi-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qVhPWncU386vrRrhWMRi-55" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;宋体&quot;&gt;否&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qVhPWncU386vrRrhWMRi-54">
+          <mxGeometry x="0.6" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qVhPWncU386vrRrhWMRi-56" value="&lt;font face=&quot;宋体&quot;&gt;大小是否&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;lt;=65500&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;字节&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="455" y="480" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qVhPWncU386vrRrhWMRi-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qVhPWncU386vrRrhWMRi-58" target="qVhPWncU386vrRrhWMRi-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qVhPWncU386vrRrhWMRi-58" value="&lt;font face=&quot;宋体&quot;&gt;质量&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;-5%&lt;/font&gt;" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="568" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qVhPWncU386vrRrhWMRi-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qVhPWncU386vrRrhWMRi-63" target="qVhPWncU386vrRrhWMRi-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qVhPWncU386vrRrhWMRi-60" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;宋体&quot;&gt;是&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qVhPWncU386vrRrhWMRi-59">
+          <mxGeometry x="-0.28" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qVhPWncU386vrRrhWMRi-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="qVhPWncU386vrRrhWMRi-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="525" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="815" y="646" />
+              <mxPoint x="815" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qVhPWncU386vrRrhWMRi-62" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;宋体&quot;&gt;否&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qVhPWncU386vrRrhWMRi-61">
+          <mxGeometry x="-0.8828" y="4" relative="1" as="geometry">
+            <mxPoint y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qVhPWncU386vrRrhWMRi-63" value="&lt;font face=&quot;宋体&quot;&gt;是否到达最大&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;调整次数&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;3&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;次&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="625" y="620" width="130" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="qVhPWncU386vrRrhWMRi-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qVhPWncU386vrRrhWMRi-65" target="qVhPWncU386vrRrhWMRi-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qVhPWncU386vrRrhWMRi-65" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;宋体&quot;&gt;丢弃帧&lt;/font&gt;" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="710" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qVhPWncU386vrRrhWMRi-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qVhPWncU386vrRrhWMRi-67" target="qVhPWncU386vrRrhWMRi-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qVhPWncU386vrRrhWMRi-67" value="&lt;font face=&quot;宋体&quot;&gt;发送&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;UDP&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;数据包&lt;/font&gt;" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="610" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qVhPWncU386vrRrhWMRi-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qVhPWncU386vrRrhWMRi-69">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="760" />
+              <mxPoint x="260" y="760" />
+              <mxPoint x="260" y="320" />
+            </Array>
+            <mxPoint x="335" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qVhPWncU386vrRrhWMRi-69" value="&lt;font face=&quot;宋体&quot;&gt;显示视频帧&lt;/font&gt;" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="680" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qVhPWncU386vrRrhWMRi-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qVhPWncU386vrRrhWMRi-71" target="qVhPWncU386vrRrhWMRi-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qVhPWncU386vrRrhWMRi-71" value="&lt;font face=&quot;宋体&quot;&gt;停止摄像头&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;关闭&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;UDP&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;连接&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;关闭显示窗口&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="430.0005750798722" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qVhPWncU386vrRrhWMRi-72" value="end" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="295" y="520" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
