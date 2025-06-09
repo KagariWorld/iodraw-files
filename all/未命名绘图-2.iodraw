@@ -93,7 +93,11 @@
         </mxCell>
         <mxCell id="qVhPWncU386vrRrhWMRi-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="qVhPWncU386vrRrhWMRi-25">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="630" as="targetPoint" />
+            <mxPoint x="360" y="640" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="640" />
+              <mxPoint x="360" y="640" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="qVhPWncU386vrRrhWMRi-25" value="&lt;font face=&quot;宋体&quot;&gt;等待&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;1-2&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;秒后重试&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;打印错误&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -136,8 +140,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="198.44000000000005" y="320" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="598.44" y="965" />
-              <mxPoint x="598.44" y="320" />
+              <mxPoint x="598" y="1015" />
+              <mxPoint x="598" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
