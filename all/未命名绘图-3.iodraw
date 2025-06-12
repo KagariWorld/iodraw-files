@@ -13,7 +13,7 @@
         <mxCell id="pbW79boWfr_6ShgPX5Vw-3" value="&lt;font face=&quot;宋体&quot;&gt;发表者账号&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="70" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pbW79boWfr_6ShgPX5Vw-4" value="&lt;font face=&quot;宋体&quot;&gt;密码&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pbW79boWfr_6ShgPX5Vw-4" value="&lt;font face=&quot;宋体&quot;&gt;评论内容&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="100" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pbW79boWfr_6ShgPX5Vw-5" value="&lt;font face=&quot;宋体&quot;&gt;邮箱&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
