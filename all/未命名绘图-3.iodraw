@@ -8,25 +8,25 @@
           <mxGeometry x="324" y="120" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pbW79boWfr_6ShgPX5Vw-2" value="&lt;font face=&quot;宋体&quot;&gt;发表者&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;id&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="60" width="60" height="40" as="geometry" />
+          <mxGeometry x="300" y="40" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pbW79boWfr_6ShgPX5Vw-3" value="&lt;font face=&quot;宋体&quot;&gt;发表者账号&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="70" width="60" height="40" as="geometry" />
+          <mxGeometry x="380" y="50" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pbW79boWfr_6ShgPX5Vw-4" value="&lt;font face=&quot;宋体&quot;&gt;评论内容&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="100" width="60" height="40" as="geometry" />
+          <mxGeometry x="450" y="90" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pbW79boWfr_6ShgPX5Vw-5" value="&lt;font face=&quot;宋体&quot;&gt;评论时间&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="434" y="140" width="60" height="40" as="geometry" />
+          <mxGeometry x="460" y="150" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pbW79boWfr_6ShgPX5Vw-6" value="&lt;font face=&quot;宋体&quot;&gt;父评论id&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="170" width="60" height="40" as="geometry" />
+          <mxGeometry x="390" y="200" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pbW79boWfr_6ShgPX5Vw-7" value="&lt;font face=&quot;宋体&quot;&gt;回复者id&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="314" y="170" width="60" height="40" as="geometry" />
+          <mxGeometry x="314" y="200" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pbW79boWfr_6ShgPX5Vw-8" value="&lt;font face=&quot;宋体&quot;&gt;回复者id&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="254" y="160" width="60" height="40" as="geometry" />
+          <mxGeometry x="240" y="190" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pbW79boWfr_6ShgPX5Vw-9" value="&lt;font face=&quot;宋体&quot;&gt;回复者账号&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="120" width="60" height="40" as="geometry" />
