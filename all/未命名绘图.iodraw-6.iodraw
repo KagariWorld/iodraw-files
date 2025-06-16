@@ -54,7 +54,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3FVQh3MkOp5Vly23h2mg-16" value="&lt;font face=&quot;宋体&quot;&gt;发送检测到的信号&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;重置计时器&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="292" y="550" width="120" height="40" as="geometry" />
+          <mxGeometry x="292" y="600" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3FVQh3MkOp5Vly23h2mg-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3FVQh3MkOp5Vly23h2mg-19" target="3FVQh3MkOp5Vly23h2mg-21">
           <mxGeometry relative="1" as="geometry" />
@@ -111,7 +111,7 @@
         </mxCell>
         <mxCell id="3FVQh3MkOp5Vly23h2mg-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="508" y="650" as="sourcePoint" />
+            <mxPoint x="508" y="670" as="sourcePoint" />
             <mxPoint x="508" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
