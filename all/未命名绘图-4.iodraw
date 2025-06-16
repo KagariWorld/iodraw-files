@@ -52,6 +52,14 @@
         <mxCell id="PdfKP6vU5W-Nfx5HeKKE-14" value="&lt;font face=&quot;宋体&quot;&gt;点击注册按钮&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="650" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="PdfKP6vU5W-Nfx5HeKKE-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="PdfKP6vU5W-Nfx5HeKKE-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PdfKP6vU5W-Nfx5HeKKE-16" value="&lt;font face=&quot;宋体&quot;&gt;提示错误&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="486.25" width="60" height="37.5" as="geometry" />
         </mxCell>
