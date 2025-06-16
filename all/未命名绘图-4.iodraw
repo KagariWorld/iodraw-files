@@ -50,7 +50,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PdfKP6vU5W-Nfx5HeKKE-14" value="&lt;font face=&quot;宋体&quot;&gt;点击注册按钮&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="355" y="650" width="60" height="30" as="geometry" />
+          <mxGeometry x="355" y="660" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PdfKP6vU5W-Nfx5HeKKE-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="PdfKP6vU5W-Nfx5HeKKE-16">
           <mxGeometry relative="1" as="geometry">
@@ -82,9 +82,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PdfKP6vU5W-Nfx5HeKKE-21" value="&lt;font face=&quot;宋体&quot;&gt;比对所有信息&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;是否正确&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="322.5" y="700" width="125" height="65" as="geometry" />
+          <mxGeometry x="322.5" y="710" width="125" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="PdfKP6vU5W-Nfx5HeKKE-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PdfKP6vU5W-Nfx5HeKKE-25" target="PdfKP6vU5W-Nfx5HeKKE-3">
+        <mxCell id="PdfKP6vU5W-Nfx5HeKKE-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PdfKP6vU5W-Nfx5HeKKE-25" target="PdfKP6vU5W-Nfx5HeKKE-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PdfKP6vU5W-Nfx5HeKKE-25" value="&lt;font face=&quot;宋体&quot;&gt;注册成功&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
