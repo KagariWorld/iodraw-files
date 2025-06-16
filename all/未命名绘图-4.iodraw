@@ -58,7 +58,7 @@
               <mxPoint x="585" y="595" />
               <mxPoint x="585" y="330" />
             </Array>
-            <mxPoint x="390" y="330" as="targetPoint" />
+            <mxPoint x="380" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PdfKP6vU5W-Nfx5HeKKE-16" value="&lt;font face=&quot;宋体&quot;&gt;提示错误&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -96,7 +96,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PdfKP6vU5W-Nfx5HeKKE-27" value="&lt;font face=&quot;宋体&quot;&gt;输入从服务端&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;获取到的验证码&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="323.75" y="575" width="122.5" height="40" as="geometry" />
+          <mxGeometry x="323.75" y="600" width="122.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
