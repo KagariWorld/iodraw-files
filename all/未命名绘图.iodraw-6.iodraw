@@ -65,7 +65,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3FVQh3MkOp5Vly23h2mg-19" value="&lt;font face=&quot;Times New Roman&quot;&gt;MQTT&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;是否收到红外信号&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="610" width="144" height="80" as="geometry" />
+          <mxGeometry x="280" y="650" width="144" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3FVQh3MkOp5Vly23h2mg-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3FVQh3MkOp5Vly23h2mg-21" target="3FVQh3MkOp5Vly23h2mg-22">
           <mxGeometry relative="1" as="geometry" />
@@ -101,7 +101,7 @@
         <mxCell id="3FVQh3MkOp5Vly23h2mg-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3FVQh3MkOp5Vly23h2mg-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="448" y="649.5" as="sourcePoint" />
-            <mxPoint x="508" y="650" as="targetPoint" />
+            <mxPoint x="510" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3FVQh3MkOp5Vly23h2mg-28" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 12px;&quot;&gt;否&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3FVQh3MkOp5Vly23h2mg-27">
