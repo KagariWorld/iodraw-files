@@ -48,7 +48,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3FVQh3MkOp5Vly23h2mg-14" value="&lt;font face=&quot;宋体&quot;&gt;是否检测到人脸且&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;检查时间是否&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;gt;3&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;秒&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="430" width="144" height="80" as="geometry" />
+          <mxGeometry x="280" y="500" width="144" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3FVQh3MkOp5Vly23h2mg-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3FVQh3MkOp5Vly23h2mg-16" target="3FVQh3MkOp5Vly23h2mg-19">
           <mxGeometry relative="1" as="geometry" />
@@ -90,7 +90,7 @@
         <mxCell id="3FVQh3MkOp5Vly23h2mg-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3FVQh3MkOp5Vly23h2mg-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="468" y="469.5" as="sourcePoint" />
-            <mxPoint x="508" y="470" as="targetPoint" />
+            <mxPoint x="510" y="525" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3FVQh3MkOp5Vly23h2mg-26" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 12px;&quot;&gt;否&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3FVQh3MkOp5Vly23h2mg-25">
