@@ -14,13 +14,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KmU34SSXB4n4NLHMPEfF-4" value="&lt;font face=&quot;宋体&quot;&gt;输入用户名或邮箱&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;以及密码&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="120" width="120" height="40" as="geometry" />
+          <mxGeometry x="354" y="130" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KmU34SSXB4n4NLHMPEfF-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KmU34SSXB4n4NLHMPEfF-6" target="KmU34SSXB4n4NLHMPEfF-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KmU34SSXB4n4NLHMPEfF-6" value="&lt;font face=&quot;宋体&quot;&gt;点击登录&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="180" width="120" height="40" as="geometry" />
+          <mxGeometry x="367" y="190" width="94" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KmU34SSXB4n4NLHMPEfF-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KmU34SSXB4n4NLHMPEfF-11" target="KmU34SSXB4n4NLHMPEfF-12">
           <mxGeometry relative="1" as="geometry" />
