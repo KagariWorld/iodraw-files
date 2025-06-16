@@ -1,0 +1,127 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="iEC8FeZtyj7oxIE7BQZV">
+    <mxGraphModel dx="996" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3FVQh3MkOp5Vly23h2mg-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3FVQh3MkOp5Vly23h2mg-2" target="3FVQh3MkOp5Vly23h2mg-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3FVQh3MkOp5Vly23h2mg-2" value="&lt;font face=&quot;宋体&quot;&gt;开始&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="322" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3FVQh3MkOp5Vly23h2mg-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3FVQh3MkOp5Vly23h2mg-4" target="3FVQh3MkOp5Vly23h2mg-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3FVQh3MkOp5Vly23h2mg-4" value="&lt;font face=&quot;宋体&quot;&gt;加载&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;OpenCV&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;模型&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;初始化&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;UDP&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;监听端口&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;初始化&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;MQTT&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;连接&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="292" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3FVQh3MkOp5Vly23h2mg-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3FVQh3MkOp5Vly23h2mg-7" target="3FVQh3MkOp5Vly23h2mg-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3FVQh3MkOp5Vly23h2mg-6" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;宋体&quot;&gt;是&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3FVQh3MkOp5Vly23h2mg-5">
+          <mxGeometry x="-0.2457" relative="1" as="geometry">
+            <mxPoint y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3FVQh3MkOp5Vly23h2mg-7" value="&lt;font face=&quot;宋体&quot;&gt;是否接收到&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;UDP&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;数据包&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="300" width="144" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3FVQh3MkOp5Vly23h2mg-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3FVQh3MkOp5Vly23h2mg-9" target="3FVQh3MkOp5Vly23h2mg-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3FVQh3MkOp5Vly23h2mg-9" value="&lt;font face=&quot;宋体&quot;&gt;解码为&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;OpenCV Mat&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;图像预处理&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;灰度转换&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;直方图均衡化&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="292" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3FVQh3MkOp5Vly23h2mg-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3FVQh3MkOp5Vly23h2mg-11" target="3FVQh3MkOp5Vly23h2mg-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3FVQh3MkOp5Vly23h2mg-11" value="&lt;font face=&quot;宋体&quot;&gt;人脸检测&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="292" y="450" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3FVQh3MkOp5Vly23h2mg-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3FVQh3MkOp5Vly23h2mg-14" target="3FVQh3MkOp5Vly23h2mg-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3FVQh3MkOp5Vly23h2mg-13" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;宋体&quot;&gt;是&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3FVQh3MkOp5Vly23h2mg-12">
+          <mxGeometry x="-0.104" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3FVQh3MkOp5Vly23h2mg-14" value="&lt;font face=&quot;宋体&quot;&gt;是否检测到人脸且&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;检查时间是否&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;gt;3&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;秒&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="500" width="144" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3FVQh3MkOp5Vly23h2mg-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3FVQh3MkOp5Vly23h2mg-16" target="3FVQh3MkOp5Vly23h2mg-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3FVQh3MkOp5Vly23h2mg-16" value="&lt;font face=&quot;宋体&quot;&gt;发送检测到的信号&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;重置计时器&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="292" y="590" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3FVQh3MkOp5Vly23h2mg-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3FVQh3MkOp5Vly23h2mg-19" target="3FVQh3MkOp5Vly23h2mg-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3FVQh3MkOp5Vly23h2mg-18" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;宋体&quot;&gt;是&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3FVQh3MkOp5Vly23h2mg-17">
+          <mxGeometry x="0.232" y="2" relative="1" as="geometry">
+            <mxPoint x="-2" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3FVQh3MkOp5Vly23h2mg-19" value="&lt;font face=&quot;Times New Roman&quot;&gt;MQTT&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;是否收到红外信号&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="650" width="144" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3FVQh3MkOp5Vly23h2mg-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3FVQh3MkOp5Vly23h2mg-21" target="3FVQh3MkOp5Vly23h2mg-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3FVQh3MkOp5Vly23h2mg-21" value="&lt;font face=&quot;宋体&quot;&gt;检测成功&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;显示在Label中&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="292" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3FVQh3MkOp5Vly23h2mg-22" value="&lt;font face=&quot;宋体&quot;&gt;结束&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="322" y="780" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3FVQh3MkOp5Vly23h2mg-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3FVQh3MkOp5Vly23h2mg-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="478" y="350" as="sourcePoint" />
+            <mxPoint x="510" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3FVQh3MkOp5Vly23h2mg-24" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 12px;&quot;&gt;否&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3FVQh3MkOp5Vly23h2mg-23">
+          <mxGeometry x="-0.0468" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3FVQh3MkOp5Vly23h2mg-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3FVQh3MkOp5Vly23h2mg-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="468" y="469.5" as="sourcePoint" />
+            <mxPoint x="510" y="525" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3FVQh3MkOp5Vly23h2mg-26" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 12px;&quot;&gt;否&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3FVQh3MkOp5Vly23h2mg-25">
+          <mxGeometry x="-0.0468" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3FVQh3MkOp5Vly23h2mg-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3FVQh3MkOp5Vly23h2mg-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="448" y="649.5" as="sourcePoint" />
+            <mxPoint x="510" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3FVQh3MkOp5Vly23h2mg-28" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 12px;&quot;&gt;否&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3FVQh3MkOp5Vly23h2mg-27">
+          <mxGeometry x="-0.0468" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3FVQh3MkOp5Vly23h2mg-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="508" y="670" as="sourcePoint" />
+            <mxPoint x="510" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3FVQh3MkOp5Vly23h2mg-30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="508" y="280" as="sourcePoint" />
+            <mxPoint x="348" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
