@@ -7,6 +7,9 @@
         <mxCell id="tuGaWK3mJV_6ZIGtzLNa-80" value="&lt;font face=&quot;宋体&quot;&gt;硬件端&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="190" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="tuGaWK3mJV_6ZIGtzLNa-82" value="&lt;font face=&quot;宋体&quot;&gt;硬件端&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="260" width="70" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
