@@ -10,6 +10,15 @@
         <mxCell id="tuGaWK3mJV_6ZIGtzLNa-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="tuGaWK3mJV_6ZIGtzLNa-80" target="tuGaWK3mJV_6ZIGtzLNa-83">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="tuGaWK3mJV_6ZIGtzLNa-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="tuGaWK3mJV_6ZIGtzLNa-80" target="tuGaWK3mJV_6ZIGtzLNa-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tuGaWK3mJV_6ZIGtzLNa-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="tuGaWK3mJV_6ZIGtzLNa-80" target="tuGaWK3mJV_6ZIGtzLNa-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tuGaWK3mJV_6ZIGtzLNa-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="tuGaWK3mJV_6ZIGtzLNa-80" target="tuGaWK3mJV_6ZIGtzLNa-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tuGaWK3mJV_6ZIGtzLNa-80" value="&lt;font face=&quot;宋体&quot;&gt;硬件端&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="190" width="100" height="50" as="geometry" />
         </mxCell>
