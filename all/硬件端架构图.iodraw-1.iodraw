@@ -22,51 +22,6 @@
         <mxCell id="tuGaWK3mJV_6ZIGtzLNa-86" value="&lt;font face=&quot;宋体&quot;&gt;灯光模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="529" y="340" width="50" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CCWd9ZCwrl8jhsLrMH9u-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="tuGaWK3mJV_6ZIGtzLNa-80">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="414" y="280" as="sourcePoint" />
-            <mxPoint x="410" y="250" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CCWd9ZCwrl8jhsLrMH9u-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="279" y="280" as="sourcePoint" />
-            <mxPoint x="560" y="280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CCWd9ZCwrl8jhsLrMH9u-9" value="" style="endArrow=none;html=1;rounded=0;exitX=0.428;exitY=0.006;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="414.1600000000001" y="340" as="sourcePoint" />
-            <mxPoint x="413.76" y="279.52" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CCWd9ZCwrl8jhsLrMH9u-12" value="" style="endArrow=none;html=1;rounded=0;exitX=0.428;exitY=0.006;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="484.1600000000001" y="340" as="sourcePoint" />
-            <mxPoint x="483.76" y="279.52" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CCWd9ZCwrl8jhsLrMH9u-13" value="" style="endArrow=none;html=1;rounded=0;exitX=0.428;exitY=0.006;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560.4000000000001" y="340" as="sourcePoint" />
-            <mxPoint x="560" y="279.52" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CCWd9ZCwrl8jhsLrMH9u-14" value="" style="endArrow=none;html=1;rounded=0;exitX=0.428;exitY=0.006;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="344.1600000000001" y="340" as="sourcePoint" />
-            <mxPoint x="343.76" y="279.52" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CCWd9ZCwrl8jhsLrMH9u-15" value="" style="endArrow=none;html=1;rounded=0;exitX=0.428;exitY=0.006;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280.4000000000001" y="340" as="sourcePoint" />
-            <mxPoint x="280" y="279.52" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CCWd9ZCwrl8jhsLrMH9u-16" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="385" y="248" width="50" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
