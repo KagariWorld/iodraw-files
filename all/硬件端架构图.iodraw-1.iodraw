@@ -13,7 +13,7 @@
         <mxCell id="tuGaWK3mJV_6ZIGtzLNa-83" value="&lt;font face=&quot;宋体&quot;&gt;DHT11&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;温湿度传感器&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="313" y="400" width="41" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tuGaWK3mJV_6ZIGtzLNa-84" value="&lt;font face=&quot;宋体&quot;&gt;温湿度模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tuGaWK3mJV_6ZIGtzLNa-84" value="&lt;font face=&quot;宋体&quot;&gt;火焰传感器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="369" y="400" width="41" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tuGaWK3mJV_6ZIGtzLNa-85" value="&lt;font face=&quot;宋体&quot;&gt;风扇模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
