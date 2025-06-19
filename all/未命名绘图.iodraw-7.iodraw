@@ -5,19 +5,19 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="BW_xf7sTYF8yVPm2hV-I-1" value="&lt;font face=&quot;宋体&quot;&gt;管理端&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="90" width="80" height="40" as="geometry" />
+          <mxGeometry x="374" y="90" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BW_xf7sTYF8yVPm2hV-I-2" value="&lt;font face=&quot;宋体&quot;&gt;登录&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;界面&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="170" width="30" height="80" as="geometry" />
+          <mxGeometry x="320" y="170" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BW_xf7sTYF8yVPm2hV-I-3" value="&lt;font face=&quot;宋体&quot;&gt;用户管理界面&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="170" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BW_xf7sTYF8yVPm2hV-I-4" value="&lt;font face=&quot;宋体&quot;&gt;评论管理界面&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="170" width="30" height="80" as="geometry" />
+          <mxGeometry x="424" y="170" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BW_xf7sTYF8yVPm2hV-I-5" value="&lt;font face=&quot;宋体&quot;&gt;公告管理界面&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="170" width="30" height="80" as="geometry" />
+          <mxGeometry x="470" y="170" width="30" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
