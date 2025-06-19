@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="tuGaWK3mJV_6ZIGtzLNa-80" value="&lt;font face=&quot;宋体&quot;&gt;树莓派&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="364" y="190" width="66" height="30" as="geometry" />
+          <mxGeometry x="393" y="200" width="66" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tuGaWK3mJV_6ZIGtzLNa-82" value="&lt;font face=&quot;宋体&quot;&gt;监控模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="249" y="400" width="50" height="80" as="geometry" />
@@ -24,6 +24,9 @@
         </mxCell>
         <mxCell id="CCWd9ZCwrl8jhsLrMH9u-18" value="&lt;font face=&quot;宋体&quot;&gt;输入层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="313" y="280" width="56" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CCWd9ZCwrl8jhsLrMH9u-19" value="&lt;font face=&quot;宋体&quot;&gt;输出层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="280" width="56" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
