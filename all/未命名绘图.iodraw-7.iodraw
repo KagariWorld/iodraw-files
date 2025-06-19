@@ -49,6 +49,12 @@
         <mxCell id="YgYTJAuSF8fOz5bxJ8nF-29" value="&lt;font face=&quot;宋体&quot;&gt;灯光控制模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="525" width="30" height="85" as="geometry" />
         </mxCell>
+        <mxCell id="YgYTJAuSF8fOz5bxJ8nF-31" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="120" as="sourcePoint" />
+            <mxPoint x="470" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
