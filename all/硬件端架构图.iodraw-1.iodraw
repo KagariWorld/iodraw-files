@@ -17,15 +17,15 @@
           <mxGeometry x="319" y="400" width="41" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tuGaWK3mJV_6ZIGtzLNa-85" value="&lt;font face=&quot;宋体&quot;&gt;MQ-2&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;烟雾传感器&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="400" width="41" height="80" as="geometry" />
+          <mxGeometry x="373" y="400" width="41" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tuGaWK3mJV_6ZIGtzLNa-86" value="&lt;font face=&quot;宋体&quot;&gt;HC-SR501红外传感器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="468" y="400" width="41" height="80" as="geometry" />
+          <mxGeometry x="426" y="400" width="41" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CCWd9ZCwrl8jhsLrMH9u-18" value="&lt;font face=&quot;宋体&quot;&gt;输入层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="275" y="280" width="56" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CCWd9ZCwrl8jhsLrMH9u-19" value="&lt;font face=&quot;宋体&quot;&gt;输出层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CCWd9ZCwrl8jhsLrMH9u-19" value="&lt;font face=&quot;宋体&quot;&gt;执行器层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="280" width="56" height="30" as="geometry" />
         </mxCell>
       </root>
