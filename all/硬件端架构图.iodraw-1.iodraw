@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="Qkjbo_2Bn18B-8SmO6XI">
-    <mxGraphModel dx="569" dy="307" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="830" dy="448" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,25 +8,25 @@
           <mxGeometry x="360" y="200" width="66" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tuGaWK3mJV_6ZIGtzLNa-82" value="&lt;font face=&quot;宋体&quot;&gt;CSI&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;摄像头&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="400" width="41" height="80" as="geometry" />
+          <mxGeometry x="130" y="400" width="41" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tuGaWK3mJV_6ZIGtzLNa-83" value="&lt;font face=&quot;宋体&quot;&gt;DHT11&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;温湿度传感器&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="400" width="41" height="80" as="geometry" />
+          <mxGeometry x="180" y="400" width="41" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tuGaWK3mJV_6ZIGtzLNa-84" value="&lt;font face=&quot;宋体&quot;&gt;火焰传感器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="319" y="400" width="41" height="80" as="geometry" />
+          <mxGeometry x="249" y="400" width="41" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tuGaWK3mJV_6ZIGtzLNa-85" value="&lt;font face=&quot;宋体&quot;&gt;MQ-2&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;烟雾传感器&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="373" y="400" width="41" height="80" as="geometry" />
+          <mxGeometry x="303" y="400" width="41" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tuGaWK3mJV_6ZIGtzLNa-86" value="&lt;font face=&quot;宋体&quot;&gt;HC-SR501红外传感器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="426" y="400" width="41" height="80" as="geometry" />
+          <mxGeometry x="356" y="400" width="41" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CCWd9ZCwrl8jhsLrMH9u-18" value="&lt;font face=&quot;宋体&quot;&gt;输入层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="275" y="280" width="56" height="30" as="geometry" />
+          <mxGeometry x="234" y="280" width="56" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CCWd9ZCwrl8jhsLrMH9u-19" value="&lt;font face=&quot;宋体&quot;&gt;执行器层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="280" width="56" height="30" as="geometry" />
+          <mxGeometry x="500" y="280" width="56" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
