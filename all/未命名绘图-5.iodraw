@@ -22,9 +22,6 @@
         <mxCell id="tuGaWK3mJV_6ZIGtzLNa-86" value="&lt;font face=&quot;宋体&quot;&gt;灯光模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="529" y="340" width="50" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CCWd9ZCwrl8jhsLrMH9u-4" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="199" y="240" width="50" height="100" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
